@@ -1,0 +1,73 @@
+2025-10-30 19:54:52,177 - INFO - Log tizimi ishga tushdi.
+2025-10-30 20:11:06,092 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-10-30 20:11:06,092 - INFO - NumExpr defaulting to 8 threads.
+2025-10-30 20:11:08,206 - INFO - Data called
+2025-10-30 20:11:11,841 - INFO - Log tizimi ishga tushdi.
+2025-10-30 20:16:28,949 - INFO - Data called
+2025-10-30 20:16:41,659 - INFO - Data called
+2025-10-30 20:16:41,671 - INFO - Log tizimi ishga tushdi.
+2025-10-30 20:17:22,124 - INFO - Data called
+2025-10-30 20:22:15,498 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\log_transform.csv
+2025-10-30 20:24:05,907 - INFO - Data called
+2025-10-30 20:30:20,058 - INFO - Data called
+2025-10-30 20:30:21,212 - INFO - Corralation ustunlarni tahlil qilish boshlandi.
+2025-10-30 20:30:21,220 - INFO - Corralation hisoblandi.
+2025-10-30 20:30:21,222 - INFO - Matritsa yaratildi.
+2025-10-30 20:30:21,227 - INFO - 0.8 dan yuqori corralation: []
+2025-10-30 20:30:21,231 - INFO - Corr ustunlar tashlab yuborildi. Original shape: (2052, 9), Yangi shape: (2052, 9)
+2025-10-30 20:31:09,466 - INFO - Data called
+2025-10-30 20:31:12,083 - INFO - Corralation ustunlarni tahlil qilish boshlandi.
+2025-10-30 20:31:12,084 - INFO - Corralation hisoblandi.
+2025-10-30 20:31:12,091 - INFO - Matritsa yaratildi.
+2025-10-30 20:31:12,094 - INFO - 0.8 dan yuqori corralation: []
+2025-10-30 20:31:12,095 - INFO - Corr ustunlar tashlab yuborildi. Original shape: (2052, 9), Yangi shape: (2052, 9)
+2025-10-30 20:31:27,005 - INFO - Data called
+2025-10-30 20:31:28,958 - INFO - Corralation ustunlarni tahlil qilish boshlandi.
+2025-10-30 20:31:28,960 - INFO - Corralation hisoblandi.
+2025-10-30 20:31:28,961 - INFO - Matritsa yaratildi.
+2025-10-30 20:31:28,964 - INFO - 0.8 dan yuqori corralation: []
+2025-10-30 20:31:28,965 - INFO - Corr ustunlar tashlab yuborildi. Original shape: (2052, 9), Yangi shape: (2052, 9)
+2025-10-30 20:32:19,289 - INFO - Data called
+2025-10-30 20:32:20,988 - INFO - Corralation ustunlarni tahlil qilish boshlandi.
+2025-10-30 20:32:21,005 - INFO - Corralation hisoblandi.
+2025-10-30 20:32:21,012 - INFO - Matritsa yaratildi.
+2025-10-30 20:32:21,013 - INFO - 0.8 dan yuqori corralation: []
+2025-10-30 20:32:21,013 - INFO - Corr ustunlar tashlab yuborildi. Original shape: (2052, 9), Yangi shape: (2052, 9)
+2025-10-30 20:33:20,358 - INFO - Data called
+2025-10-30 20:33:24,346 - INFO - Corralation ustunlarni tahlil qilish boshlandi.
+2025-10-30 20:33:24,351 - INFO - Corralation hisoblandi.
+2025-10-30 20:33:24,357 - INFO - Matritsa yaratildi.
+2025-10-30 20:33:24,359 - INFO - 0.8 dan yuqori corralation: []
+2025-10-30 20:33:24,360 - INFO - Corr ustunlar tashlab yuborildi. Original shape: (2052, 9), Yangi shape: (2052, 9)
+2025-10-30 20:33:34,648 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\filtered.csv
+2025-10-30 20:35:09,252 - INFO - Data called
+2025-10-30 20:43:44,339 - INFO - Data called
+2025-10-30 20:43:46,541 - INFO - dt training with wrapped feature engineering
+2025-10-30 20:43:46,541 - INFO - xatolik ro'y berdi
+2025-10-30 20:46:30,250 - INFO - Data called
+2025-10-30 20:46:33,153 - INFO - dt training with wrapped feature engineering
+2025-10-30 20:46:33,158 - INFO - target va dataset olindi
+2025-10-30 20:46:33,162 - INFO - xatolik ro'y berdi
+2025-10-30 20:46:59,282 - INFO - Data called
+2025-10-30 20:47:01,261 - INFO - dt training with wrapped feature engineering
+2025-10-30 20:47:01,264 - INFO - target va dataset olindi
+2025-10-30 20:47:01,272 - INFO - xatolik ro'y berdi
+2025-10-30 20:49:41,731 - INFO - Data called
+2025-10-30 20:49:43,549 - INFO - dt training with wrapped feature engineering
+2025-10-30 20:49:43,551 - INFO - target va dataset olindi
+2025-10-30 20:49:43,589 - INFO - Ustunlar tanlab olindi
+2025-10-30 20:50:12,459 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\wrapped_d_tre.csv
+2025-10-30 20:50:24,658 - INFO - Data called
+2025-10-30 20:50:26,756 - INFO - dt training with wrapped feature engineering
+2025-10-30 20:50:26,758 - INFO - target va dataset olindi
+2025-10-30 20:50:26,794 - INFO - Ustunlar tanlab olindi
+2025-10-30 20:50:31,160 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\wrapped_d_tree.csv
+2025-10-30 20:53:38,865 - INFO - Data called
+2025-10-30 20:53:41,119 - INFO - dt training with wrapped feature engineering
+2025-10-30 20:53:41,121 - INFO - target va dataset olindi
+2025-10-30 20:53:41,123 - INFO - xatolik ro'y berdi
+2025-10-30 20:53:44,810 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\wrapped_random_forest.csv
+2025-10-30 21:00:23,504 - INFO - Data called
+2025-10-30 21:00:25,344 - INFO -  RF training with Embedded feature engineering
+2025-10-30 21:00:25,345 - INFO - target va dataset olindi
+2025-10-30 21:00:25,359 - INFO - Feature selection is finished

@@ -1,0 +1,421 @@
+Rank,Club,Squad size,Average age,Foreigners,Market value,Total market value,League,Season
+,FC Barcelona,34,25.4,15,€9.63m,€327.50m,La_Liga,2005
+,Real Madrid,36,25.4,13,€7.82m,€281.60m,La_Liga,2005
+,Valencia CF,34,27.3,14,€6.28m,€213.55m,La_Liga,2005
+,Atlético de Madrid,31,24.2,8,€4.33m,€134.15m,La_Liga,2005
+,Deportivo de La Coruña,34,27.5,8,€3.94m,€133.80m,La_Liga,2005
+,Sevilla FC,34,26.0,10,€2.85m,€96.85m,La_Liga,2005
+,Real Betis Balompié,33,26.2,8,€2.60m,€85.95m,La_Liga,2005
+,Villarreal CF,32,25.9,13,€2.56m,€82.00m,La_Liga,2005
+,Real Zaragoza,25,27.7,7,€2.66m,€66.55m,La_Liga,2005
+,RCD Espanyol Barcelona,31,25.5,9,€1.90m,€58.98m,La_Liga,2005
+,Real Sociedad,31,25.9,7,€1.74m,€53.83m,La_Liga,2005
+,Celta de Vigo,27,26.7,13,€1.79m,€48.30m,La_Liga,2005
+,Athletic Bilbao,41,25.2,1,€1.15m,€47.23m,La_Liga,2005
+,RCD Mallorca,31,26.1,15,€1.36m,€42.15m,La_Liga,2005
+,CA Osasuna,25,26.6,7,€1.63m,€40.70m,La_Liga,2005
+,Getafe CF,26,27.4,6,€1.40m,€36.38m,La_Liga,2005
+,Deportivo Alavés,31,28.2,17,€1.12m,€34.83m,La_Liga,2005
+,Racing Santander,34,25.4,8,€893k,€30.35m,La_Liga,2005
+,Málaga CF,33,26.0,9,€849k,€28.03m,La_Liga,2005
+,Cádiz CF,28,28.8,13,€791k,€22.15m,La_Liga,2005
+,Real Madrid,39,25.3,15,€9.54m,€372.20m,La_Liga,2006
+,FC Barcelona,32,26.4,18,€11.45m,€366.50m,La_Liga,2006
+,Valencia CF,33,26.5,9,€7.05m,€232.70m,La_Liga,2006
+,Atlético de Madrid,34,24.9,13,€5.12m,€174.00m,La_Liga,2006
+,Sevilla FC,30,26.5,14,€4.66m,€139.80m,La_Liga,2006
+,Real Zaragoza,26,27.1,8,€4.66m,€121.25m,La_Liga,2006
+,Villarreal CF,33,27.0,16,€3.30m,€109.05m,La_Liga,2006
+,Deportivo de La Coruña,33,25.3,10,€3.00m,€98.85m,La_Liga,2006
+,Real Betis Balompié,34,27.1,12,€2.32m,€78.93m,La_Liga,2006
+,CA Osasuna,34,25.2,7,€2.10m,€71.35m,La_Liga,2006
+,RCD Espanyol Barcelona,34,25.2,9,€1.83m,€62.15m,La_Liga,2006
+,RCD Mallorca,24,27.0,11,€2.30m,€55.30m,La_Liga,2006
+,Athletic Bilbao,30,26.3,1,€1.83m,€54.90m,La_Liga,2006
+,Celta de Vigo,32,26.5,16,€1.71m,€54.88m,La_Liga,2006
+,Levante UD,30,29.9,17,€1.79m,€53.75m,La_Liga,2006
+,Racing Santander,34,25.9,7,€1.45m,€49.30m,La_Liga,2006
+,Real Sociedad,32,26.6,10,€1.41m,€45.20m,La_Liga,2006
+,Recreativo Huelva,28,27.1,6,€1.50m,€41.90m,La_Liga,2006
+,Getafe CF,25,28.0,7,€1.60m,€40.05m,La_Liga,2006
+,Gimnàstic de Tarragona,34,29.3,10,€831k,€28.25m,La_Liga,2006
+,FC Barcelona,34,26.2,15,€12.17m,€413.70m,La_Liga,2007
+,Real Madrid,26,26.4,17,€13.68m,€355.80m,La_Liga,2007
+,Valencia CF,30,26.7,10,€7.88m,€236.50m,La_Liga,2007
+,Atlético de Madrid,37,25.8,16,€5.72m,€211.70m,La_Liga,2007
+,Sevilla FC,35,26.3,20,€5.70m,€199.40m,La_Liga,2007
+,Villarreal CF,30,26.8,15,€4.98m,€149.30m,La_Liga,2007
+,RCD Espanyol Barcelona,30,26.1,10,€4.02m,€120.50m,La_Liga,2007
+,Real Zaragoza,32,26.6,8,€3.75m,€119.90m,La_Liga,2007
+,CA Osasuna,31,25.8,9,€2.64m,€81.90m,La_Liga,2007
+,Real Betis Balompié,32,26.3,11,€2.53m,€81.10m,La_Liga,2007
+,RCD Mallorca,29,26.2,12,€2.74m,€79.60m,La_Liga,2007
+,Athletic Bilbao,32,26.7,1,€2.34m,€75.00m,La_Liga,2007
+,Racing Santander,33,25.5,10,€2.23m,€73.70m,La_Liga,2007
+,Deportivo de La Coruña,33,25.8,9,€2.18m,€72.10m,La_Liga,2007
+,Getafe CF,32,26.0,9,€2.15m,€68.90m,La_Liga,2007
+,UD Almería,26,26.4,9,€2.18m,€56.70m,La_Liga,2007
+,Recreativo Huelva,29,27.4,12,€1.92m,€55.60m,La_Liga,2007
+,Real Murcia CF,29,27.8,9,€1.73m,€50.10m,La_Liga,2007
+,Real Valladolid CF,30,27.8,6,€1.59m,€47.65m,La_Liga,2007
+,Levante UD,37,27.7,15,€1.12m,€41.50m,La_Liga,2007
+,Real Madrid,36,26.0,20,€11.91m,€428.60m,La_Liga,2008
+,FC Barcelona,34,25.3,14,€12.51m,€425.40m,La_Liga,2008
+,Valencia CF,35,26.7,10,€6.50m,€227.50m,La_Liga,2008
+,Atlético de Madrid,29,26.1,15,€7.63m,€221.40m,La_Liga,2008
+,Sevilla FC,35,25.9,20,€5.79m,€202.70m,La_Liga,2008
+,Villarreal CF,31,26.9,14,€5.48m,€170.00m,La_Liga,2008
+,Real Betis Balompié,33,27.1,13,€3.60m,€118.70m,La_Liga,2008
+,RCD Espanyol Barcelona,31,26.2,10,€3.07m,€95.30m,La_Liga,2008
+,Racing Santander,35,25.9,10,€2.44m,€85.50m,La_Liga,2008
+,UD Almería,25,26.4,10,€3.20m,€80.00m,La_Liga,2008
+,Athletic Bilbao,32,26.3,1,€2.43m,€77.60m,La_Liga,2008
+,Deportivo de La Coruña,34,26.4,10,€2.27m,€77.30m,La_Liga,2008
+,Getafe CF,28,27.2,13,€2.66m,€74.50m,La_Liga,2008
+,RCD Mallorca,27,26.3,10,€2.55m,€68.90m,La_Liga,2008
+,CA Osasuna,31,26.9,10,€2.16m,€67.10m,La_Liga,2008
+,Málaga CF,27,28.0,8,€2.00m,€54.00m,La_Liga,2008
+,Recreativo Huelva,31,26.5,9,€1.61m,€49.90m,La_Liga,2008
+,Real Valladolid CF,27,28.1,8,€1.81m,€48.80m,La_Liga,2008
+,CD Numancia,32,27.3,2,€1.19m,€38.10m,La_Liga,2008
+,Sporting Gijón,31,26.6,2,€1.17m,€36.30m,La_Liga,2008
+,FC Barcelona,31,25.6,15,€16.63m,€515.40m,La_Liga,2009
+,Real Madrid,32,25.7,16,€14.12m,€451.70m,La_Liga,2009
+,Valencia CF,34,26.2,10,€7.06m,€240.00m,La_Liga,2009
+,Sevilla FC,36,26.0,18,€6.06m,€218.30m,La_Liga,2009
+,Atlético de Madrid,37,24.6,16,€5.70m,€210.80m,La_Liga,2009
+,Villarreal CF,31,27.0,13,€5.28m,€163.70m,La_Liga,2009
+,Athletic Bilbao,36,25.7,1,€2.80m,€100.80m,La_Liga,2009
+,Real Zaragoza,38,26.8,18,€2.30m,€87.25m,La_Liga,2009
+,Getafe CF,29,26.9,9,€2.67m,€77.30m,La_Liga,2009
+,Deportivo de La Coruña,31,26.4,8,€2.45m,€75.90m,La_Liga,2009
+,RCD Espanyol Barcelona,34,25.2,13,€2.09m,€71.00m,La_Liga,2009
+,Racing Santander,33,25.9,8,€1.98m,€65.50m,La_Liga,2009
+,RCD Mallorca,28,26.9,11,€2.33m,€65.10m,La_Liga,2009
+,UD Almería,25,26.9,13,€2.55m,€63.70m,La_Liga,2009
+,CA Osasuna,27,27.8,7,€2.22m,€60.00m,La_Liga,2009
+,Málaga CF,37,25.8,13,€1.58m,€58.60m,La_Liga,2009
+,Sporting Gijón,35,25.9,3,€1.58m,€55.20m,La_Liga,2009
+,Real Valladolid CF,34,25.9,8,€1.49m,€50.50m,La_Liga,2009
+,CD Tenerife,24,27.4,4,€1.42m,€34.00m,La_Liga,2009
+,Xerez CD,28,27.4,8,€1.16m,€32.50m,La_Liga,2009
+,FC Barcelona,35,25.1,12,€17.28m,€604.70m,La_Liga,2010
+,Real Madrid,38,24.7,16,€13.66m,€519.00m,La_Liga,2010
+,Atlético de Madrid,31,25.4,10,€6.03m,€187.00m,La_Liga,2010
+,Valencia CF,32,26.9,13,€5.52m,€176.60m,La_Liga,2010
+,Sevilla FC,36,26.1,20,€4.88m,€175.60m,La_Liga,2010
+,Villarreal CF,34,25.8,13,€5.02m,€170.60m,La_Liga,2010
+,Athletic Bilbao,30,25.6,1,€3.73m,€112.00m,La_Liga,2010
+,RCD Espanyol Barcelona,35,24.6,12,€2.24m,€78.40m,La_Liga,2010
+,UD Almería,30,26.2,16,€2.45m,€73.60m,La_Liga,2010
+,Málaga CF,37,26.9,18,€1.92m,€71.05m,La_Liga,2010
+,Real Sociedad,26,26.3,6,€2.57m,€66.70m,La_Liga,2010
+,Getafe CF,29,25.8,7,€2.29m,€66.40m,La_Liga,2010
+,Deportivo de La Coruña,33,27.0,10,€1.93m,€63.70m,La_Liga,2010
+,Racing Santander,30,26.4,12,€1.98m,€59.30m,La_Liga,2010
+,CA Osasuna,29,28.5,6,€2.00m,€57.90m,La_Liga,2010
+,Real Zaragoza,30,26.6,16,€1.90m,€57.00m,La_Liga,2010
+,RCD Mallorca,28,26.0,12,€1.92m,€53.70m,La_Liga,2010
+,Sporting Gijón,33,26.3,5,€1.62m,€53.40m,La_Liga,2010
+,Hércules CF,32,27.3,12,€1.62m,€51.70m,La_Liga,2010
+,Levante UD,33,27.2,7,€1.13m,€37.40m,La_Liga,2010
+,FC Barcelona,35,25.3,11,€17.66m,€618.20m,La_Liga,2011
+,Real Madrid,33,25.2,16,€16.34m,€539.20m,La_Liga,2011
+,Atlético de Madrid,37,24.9,17,€5.68m,€210.00m,La_Liga,2011
+,Valencia CF,28,26.0,13,€6.46m,€181.00m,La_Liga,2011
+,Athletic Bilbao,30,25.7,1,€4.81m,€144.20m,La_Liga,2011
+,Villarreal CF,35,26.0,12,€3.91m,€137.00m,La_Liga,2011
+,Sevilla FC,34,25.6,14,€3.91m,€133.00m,La_Liga,2011
+,Málaga CF,32,27.4,18,€3.79m,€121.30m,La_Liga,2011
+,RCD Espanyol Barcelona,37,24.5,19,€2.19m,€81.20m,La_Liga,2011
+,Real Sociedad,26,25.8,8,€2.87m,€74.70m,La_Liga,2011
+,Getafe CF,34,26.9,7,€2.09m,€70.95m,La_Liga,2011
+,RCD Mallorca,32,25.2,13,€1.94m,€62.20m,La_Liga,2011
+,Real Zaragoza,33,26.6,16,€1.85m,€61.00m,La_Liga,2011
+,Granada CF,32,26.8,14,€1.89m,€60.60m,La_Liga,2011
+,Sporting Gijón,33,26.4,8,€1.62m,€53.40m,La_Liga,2011
+,Real Betis Balompié,36,26.2,6,€1.46m,€52.70m,La_Liga,2011
+,Rayo Vallecano,37,26.3,6,€1.28m,€47.30m,La_Liga,2011
+,CA Osasuna,32,27.5,8,€1.39m,€44.40m,La_Liga,2011
+,Racing Santander,38,24.6,9,€1.12m,€42.60m,La_Liga,2011
+,Levante UD,34,27.9,9,€1.18m,€40.25m,La_Liga,2011
+,FC Barcelona,30,26.3,9,€19.55m,€586.60m,La_Liga,2012
+,Real Madrid,34,25.9,19,€17.13m,€582.40m,La_Liga,2012
+,Atlético de Madrid,33,24.9,15,€8.09m,€267.00m,La_Liga,2012
+,Valencia CF,30,25.6,14,€5.76m,€172.90m,La_Liga,2012
+,Sevilla FC,34,25.3,14,€4.26m,€144.80m,La_Liga,2012
+,Málaga CF,33,27.2,21,€3.72m,€122.90m,La_Liga,2012
+,Athletic Bilbao,35,24.2,1,€3.42m,€119.85m,La_Liga,2012
+,Real Sociedad,26,25.5,8,€4.34m,€112.80m,La_Liga,2012
+,Granada CF,31,27.2,14,€2.35m,€72.80m,La_Liga,2012
+,Getafe CF,31,27.2,5,€2.20m,€68.30m,La_Liga,2012
+,Real Betis Balompié,37,25.8,8,€1.79m,€66.20m,La_Liga,2012
+,RCD Espanyol Barcelona,31,25.9,13,€2.07m,€64.10m,La_Liga,2012
+,Rayo Vallecano,34,26.1,9,€1.46m,€49.75m,La_Liga,2012
+,Celta de Vigo,30,26.8,10,€1.64m,€49.10m,La_Liga,2012
+,RCD Mallorca,36,25.3,13,€1.31m,€47.10m,La_Liga,2012
+,Real Zaragoza,37,26.5,12,€1.26m,€46.80m,La_Liga,2012
+,CA Osasuna,31,28.2,6,€1.50m,€46.40m,La_Liga,2012
+,Deportivo de La Coruña,31,28.8,15,€1.47m,€45.60m,La_Liga,2012
+,Levante UD,32,28.4,14,€1.28m,€41.10m,La_Liga,2012
+,Real Valladolid CF,25,27.0,8,€1.55m,€38.80m,La_Liga,2012
+,Real Madrid,32,25.5,15,€19.90m,€636.80m,La_Liga,2013
+,FC Barcelona,29,26.6,10,€20.42m,€592.20m,La_Liga,2013
+,Atlético de Madrid,35,25.5,19,€8.82m,€308.80m,La_Liga,2013
+,Valencia CF,42,25.1,21,€4.26m,€178.80m,La_Liga,2013
+,Sevilla FC,37,25.0,19,€3.81m,€141.15m,La_Liga,2013
+,Real Sociedad,31,25.9,8,€4.41m,€136.70m,La_Liga,2013
+,Athletic Bilbao,27,26.2,0,€4.84m,€130.70m,La_Liga,2013
+,Villarreal CF,29,24.8,9,€2.67m,€77.30m,La_Liga,2013
+,Málaga CF,31,26.5,21,€2.02m,€62.50m,La_Liga,2013
+,Real Betis Balompié,41,24.9,12,€1.43m,€58.60m,La_Liga,2013
+,Granada CF,34,25.5,23,€1.69m,€57.48m,La_Liga,2013
+,Getafe CF,32,27.4,6,€1.75m,€55.90m,La_Liga,2013
+,RCD Espanyol Barcelona,26,26.2,10,€1.97m,€51.30m,La_Liga,2013
+,Celta de Vigo,29,26.1,8,€1.72m,€49.90m,La_Liga,2013
+,Rayo Vallecano,33,25.7,10,€1.40m,€46.10m,La_Liga,2013
+,Elche CF,32,27.3,7,€1.39m,€44.60m,La_Liga,2013
+,Levante UD,33,28.2,14,€1.28m,€42.40m,La_Liga,2013
+,CA Osasuna,29,27.5,6,€1.46m,€42.30m,La_Liga,2013
+,Real Valladolid CF,31,27.1,13,€1.33m,€41.20m,La_Liga,2013
+,UD Almería,34,26.7,12,€1.07m,€36.45m,La_Liga,2013
+,Real Madrid,41,24.7,19,€19.21m,€787.80m,La_Liga,2014
+,FC Barcelona,31,25.9,17,€19.48m,€603.80m,La_Liga,2014
+,Atlético de Madrid,32,26.2,16,€11.13m,€356.00m,La_Liga,2014
+,Valencia CF,26,24.5,13,€8.85m,€230.00m,La_Liga,2014
+,Sevilla FC,34,25.5,14,€4.90m,€166.75m,La_Liga,2014
+,Villarreal CF,37,24.5,12,€3.59m,€132.70m,La_Liga,2014
+,Athletic Bilbao,27,26.6,1,€4.15m,€112.10m,La_Liga,2014
+,Real Sociedad,30,26.0,5,€3.23m,€96.80m,La_Liga,2014
+,Málaga CF,30,27.1,18,€2.76m,€82.80m,La_Liga,2014
+,RCD Espanyol Barcelona,32,26.0,6,€2.37m,€75.70m,La_Liga,2014
+,Granada CF,39,25.8,22,€1.73m,€67.55m,La_Liga,2014
+,Celta de Vigo,28,24.8,11,€2.16m,€60.40m,La_Liga,2014
+,Deportivo de La Coruña,33,26.9,12,€1.62m,€53.40m,La_Liga,2014
+,Rayo Vallecano,29,27.1,12,€1.78m,€51.70m,La_Liga,2014
+,Córdoba CF,36,26.3,15,€1.41m,€50.90m,La_Liga,2014
+,Getafe CF,33,26.7,9,€1.52m,€50.20m,La_Liga,2014
+,Levante UD,31,28.3,10,€1.40m,€43.45m,La_Liga,2014
+,Elche CF,29,26.2,9,€1.33m,€38.60m,La_Liga,2014
+,UD Almería,31,25.5,11,€1.24m,€38.30m,La_Liga,2014
+,SD Eibar,25,28.7,3,€1.18m,€29.40m,La_Liga,2014
+,FC Barcelona,32,26.4,16,€22.69m,€726.00m,La_Liga,2015
+,Real Madrid,30,25.3,17,€23.81m,€714.30m,La_Liga,2015
+,Atlético de Madrid,30,25.9,17,€13.95m,€418.50m,La_Liga,2015
+,Valencia CF,38,24.1,20,€6.68m,€254.00m,La_Liga,2015
+,Sevilla FC,38,26.2,19,€6.06m,€230.30m,La_Liga,2015
+,Athletic Bilbao,28,27.4,1,€5.29m,€148.00m,La_Liga,2015
+,Villarreal CF,28,25.8,10,€5.02m,€140.60m,La_Liga,2015
+,Real Sociedad,32,26.0,6,€3.73m,€119.40m,La_Liga,2015
+,Celta de Vigo,28,25.2,13,€3.25m,€91.10m,La_Liga,2015
+,Málaga CF,33,27.5,23,€2.36m,€77.95m,La_Liga,2015
+,Granada CF,33,26.3,19,€2.17m,€71.50m,La_Liga,2015
+,RCD Espanyol Barcelona,33,25.6,9,€1.88m,€62.20m,La_Liga,2015
+,Deportivo de La Coruña,30,28.7,11,€2.06m,€61.75m,La_Liga,2015
+,SD Eibar,35,26.2,9,€1.62m,€56.60m,La_Liga,2015
+,Real Betis Balompié,33,27.4,14,€1.71m,€56.40m,La_Liga,2015
+,Sporting Gijón,29,25.2,8,€1.83m,€53.20m,La_Liga,2015
+,Levante UD,31,27.8,10,€1.71m,€53.10m,La_Liga,2015
+,Rayo Vallecano,35,28.4,13,€1.42m,€49.60m,La_Liga,2015
+,Getafe CF,30,26.2,12,€1.64m,€49.10m,La_Liga,2015
+,UD Las Palmas,33,27.7,7,€976k,€32.20m,La_Liga,2015
+,Real Madrid,29,26.2,18,€27.69m,€802.90m,La_Liga,2016
+,FC Barcelona,33,26.3,18,€23.19m,€765.30m,La_Liga,2016
+,Atlético de Madrid,38,25.1,22,€13.57m,€515.80m,La_Liga,2016
+,Sevilla FC,38,26.1,23,€7.11m,€270.10m,La_Liga,2016
+,Valencia CF,38,25.3,18,€6.78m,€257.50m,La_Liga,2016
+,Villarreal CF,34,26.3,13,€5.61m,€190.70m,La_Liga,2016
+,Athletic Bilbao,30,27.3,1,€5.75m,€172.60m,La_Liga,2016
+,Real Sociedad,30,26.2,4,€5.22m,€156.45m,La_Liga,2016
+,Celta de Vigo,29,26.0,15,€4.22m,€122.40m,La_Liga,2016
+,Deportivo de La Coruña,37,27.2,16,€2.54m,€94.00m,La_Liga,2016
+,Deportivo Alavés,30,25.8,11,€2.85m,€85.40m,La_Liga,2016
+,Málaga CF,32,26.5,16,€2.63m,€84.30m,La_Liga,2016
+,UD Las Palmas,33,27.2,9,€2.55m,€84.30m,La_Liga,2016
+,Real Betis Balompié,28,26.8,13,€3.01m,€84.20m,La_Liga,2016
+,RCD Espanyol Barcelona,29,27.8,9,€2.79m,€80.80m,La_Liga,2016
+,SD Eibar,28,26.4,5,€2.43m,€67.95m,La_Liga,2016
+,Granada CF,40,25.6,26,€1.66m,€66.45m,La_Liga,2016
+,CD Leganés,37,26.6,11,€1.44m,€53.15m,La_Liga,2016
+,Sporting Gijón,31,26.3,9,€1.51m,€46.75m,La_Liga,2016
+,CA Osasuna,37,26.0,9,€1.16m,€42.90m,La_Liga,2016
+,FC Barcelona,32,26.8,17,€34.19m,€1.09bn,La_Liga,2017
+,Real Madrid,32,25.0,15,€29.85m,€955.35m,La_Liga,2017
+,Atlético de Madrid,36,25.8,20,€19.75m,€711.15m,La_Liga,2017
+,Valencia CF,30,24.7,14,€13.27m,€398.05m,La_Liga,2017
+,Sevilla FC,33,27.0,20,€7.67m,€253.20m,La_Liga,2017
+,Athletic Bilbao,33,26.4,1,€7.56m,€249.40m,La_Liga,2017
+,Real Sociedad,29,26.8,6,€8.03m,€232.95m,La_Liga,2017
+,Villarreal CF,40,25.8,15,€5.50m,€220.00m,La_Liga,2017
+,Celta de Vigo,32,25.0,16,€5.41m,€173.05m,La_Liga,2017
+,Real Betis Balompié,31,26.4,11,€4.27m,€132.25m,La_Liga,2017
+,RCD Espanyol Barcelona,29,27.8,7,€3.37m,€97.80m,La_Liga,2017
+,UD Las Palmas,38,27.4,15,€2.40m,€91.25m,La_Liga,2017
+,Girona FC,30,25.8,14,€2.73m,€81.75m,La_Liga,2017
+,Deportivo Alavés,33,25.6,12,€2.27m,€74.80m,La_Liga,2017
+,Deportivo de La Coruña,36,27.3,18,€1.85m,€66.45m,La_Liga,2017
+,Getafe CF,36,27.1,18,€1.82m,€65.60m,La_Liga,2017
+,Levante UD,37,25.8,15,€1.67m,€61.85m,La_Liga,2017
+,SD Eibar,33,27.4,9,€1.82m,€60.05m,La_Liga,2017
+,CD Leganés,34,27.3,15,€1.72m,€58.55m,La_Liga,2017
+,Málaga CF,40,26.2,17,€1.38m,€55.20m,La_Liga,2017
+,FC Barcelona,39,25.2,20,€29.72m,€1.16bn,La_Liga,2018
+,Atlético de Madrid,37,24.7,17,€26.21m,€969.70m,La_Liga,2018
+,Real Madrid,36,25.2,16,€24.89m,€896.10m,La_Liga,2018
+,Valencia CF,33,25.2,17,€15.14m,€499.65m,La_Liga,2018
+,Sevilla FC,38,26.6,21,€8.06m,€306.30m,La_Liga,2018
+,Real Sociedad,33,24.6,8,€9.12m,€300.95m,La_Liga,2018
+,Real Betis Balompié,34,25.9,15,€8.55m,€290.75m,La_Liga,2018
+,Athletic Bilbao,32,27.3,3,€7.32m,€234.25m,La_Liga,2018
+,Celta de Vigo,30,25.9,19,€7.80m,€234.10m,La_Liga,2018
+,Villarreal CF,32,27.9,12,€7.21m,€230.65m,La_Liga,2018
+,RCD Espanyol Barcelona,30,27.3,9,€5.82m,€174.70m,La_Liga,2018
+,Getafe CF,28,27.7,13,€4.72m,€132.20m,La_Liga,2018
+,CD Leganés,38,26.4,19,€2.96m,€112.45m,La_Liga,2018
+,Deportivo Alavés,29,26.4,10,€3.82m,€110.80m,La_Liga,2018
+,Levante UD,31,26.4,10,€3.48m,€107.85m,La_Liga,2018
+,Girona FC,33,26.3,11,€2.95m,€97.25m,La_Liga,2018
+,SD Eibar,29,28.1,8,€3.24m,€93.90m,La_Liga,2018
+,Rayo Vallecano,36,26.7,13,€2.41m,€86.70m,La_Liga,2018
+,Real Valladolid CF,41,25.6,8,€2.02m,€83.00m,La_Liga,2018
+,SD Huesca,39,27.2,15,€1.57m,€61.40m,La_Liga,2018
+,FC Barcelona,42,24.7,23,€22.15m,€930.28m,La_Liga,2019
+,Real Madrid,33,26.2,21,€27.69m,€913.75m,La_Liga,2019
+,Atlético de Madrid,33,25.3,16,€21.82m,€720.15m,La_Liga,2019
+,Valencia CF,33,25.9,17,€12.96m,€427.80m,La_Liga,2019
+,Real Sociedad,36,25.0,7,€9.65m,€347.55m,La_Liga,2019
+,Sevilla FC,35,26.2,16,€8.42m,€294.75m,La_Liga,2019
+,Real Betis Balompié,38,25.5,10,€6.43m,€244.35m,La_Liga,2019
+,Athletic Bilbao,32,26.8,2,€6.62m,€211.75m,La_Liga,2019
+,Villarreal CF,33,26.9,11,€6.32m,€208.68m,La_Liga,2019
+,Getafe CF,33,28.5,17,€5.32m,€175.45m,La_Liga,2019
+,Celta de Vigo,35,25.5,13,€4.77m,€167.00m,La_Liga,2019
+,RCD Espanyol Barcelona,40,26.3,12,€3.90m,€156.05m,La_Liga,2019
+,CD Leganés,39,25.8,16,€2.81m,€109.70m,La_Liga,2019
+,Deportivo Alavés,37,26.6,11,€2.89m,€106.75m,La_Liga,2019
+,Levante UD,33,27.0,8,€2.74m,€90.50m,La_Liga,2019
+,Real Valladolid CF,37,26.0,9,€2.37m,€87.78m,La_Liga,2019
+,RCD Mallorca,35,26.9,15,€1.85m,€64.68m,La_Liga,2019
+,CA Osasuna,37,26.9,4,€1.70m,€62.78m,La_Liga,2019
+,Granada CF,34,26.4,13,€1.66m,€56.58m,La_Liga,2019
+,SD Eibar,29,28.8,11,€1.85m,€53.75m,La_Liga,2019
+,FC Barcelona,32,25.5,20,€25.42m,€813.50m,La_Liga,2020
+,Real Madrid,37,25.3,17,€21.28m,€787.30m,La_Liga,2020
+,Atlético de Madrid,39,25.4,21,€19.82m,€773.10m,La_Liga,2020
+,Sevilla FC,38,26.2,17,€11.01m,€418.25m,La_Liga,2020
+,Real Sociedad,38,25.1,5,€10.70m,€406.60m,La_Liga,2020
+,Villarreal CF,36,26.4,13,€8.13m,€292.60m,La_Liga,2020
+,Valencia CF,35,25.2,20,€7.97m,€278.85m,La_Liga,2020
+,Real Betis Balompié,33,27.2,12,€6.29m,€207.70m,La_Liga,2020
+,Athletic Bilbao,32,26.4,2,€6.38m,€204.15m,La_Liga,2020
+,Getafe CF,33,25.9,18,€5.15m,€170.10m,La_Liga,2020
+,Celta de Vigo,41,24.8,12,€3.80m,€155.85m,La_Liga,2020
+,Granada CF,44,25.3,17,€2.79m,€122.65m,La_Liga,2020
+,Levante UD,34,27.0,10,€3.32m,€113.00m,La_Liga,2020
+,CA Osasuna,36,27.5,6,€2.69m,€96.75m,La_Liga,2020
+,SD Eibar,34,27.5,9,€2.45m,€83.40m,La_Liga,2020
+,Deportivo Alavés,35,26.1,10,€2.28m,€79.80m,La_Liga,2020
+,SD Huesca,34,26.9,9,€1.89m,€64.10m,La_Liga,2020
+,Real Valladolid CF,41,27.1,9,€1.55m,€63.35m,La_Liga,2020
+,Cádiz CF,41,27.6,16,€1.16m,€47.65m,La_Liga,2020
+,Elche CF,41,27.2,15,€1.11m,€45.65m,La_Liga,2020
+,Real Madrid,36,26.3,19,€21.41m,€770.75m,La_Liga,2021
+,FC Barcelona,47,25.5,24,€15.65m,€735.60m,La_Liga,2021
+,Atlético de Madrid,43,25.7,24,€15.39m,€661.80m,La_Liga,2021
+,Villarreal CF,39,26.5,15,€10.48m,€408.90m,La_Liga,2021
+,Sevilla FC,43,26.2,21,€8.95m,€385.00m,La_Liga,2021
+,Real Sociedad,40,25.2,7,€9.42m,€376.95m,La_Liga,2021
+,Valencia CF,44,24.1,20,€7.06m,€310.60m,La_Liga,2021
+,Real Betis Balompié,38,27.9,13,€6.82m,€259.00m,La_Liga,2021
+,Athletic Bilbao,31,26.2,1,€7.29m,€226.05m,La_Liga,2021
+,Getafe CF,43,25.7,17,€4.85m,€208.68m,La_Liga,2021
+,RCD Espanyol Barcelona,38,25.9,7,€3.46m,€131.60m,La_Liga,2021
+,Celta de Vigo,34,26.0,11,€3.53m,€120.00m,La_Liga,2021
+,CA Osasuna,32,27.4,3,€3.39m,€108.45m,La_Liga,2021
+,Granada CF,39,26.9,16,€2.66m,€103.75m,La_Liga,2021
+,Levante UD,42,26.8,12,€1.85m,€77.90m,La_Liga,2021
+,RCD Mallorca,41,26.2,16,€1.81m,€74.15m,La_Liga,2021
+,Elche CF,37,27.9,14,€1.97m,€72.98m,La_Liga,2021
+,Cádiz CF,37,27.7,14,€1.83m,€67.80m,La_Liga,2021
+,Rayo Vallecano,36,26.7,14,€1.87m,€67.20m,La_Liga,2021
+,Deportivo Alavés,43,25.6,16,€1.52m,€65.35m,La_Liga,2021
+,Real Madrid,36,25.9,20,€25.65m,€923.45m,La_Liga,2022
+,FC Barcelona,41,24.4,14,€20.41m,€836.80m,La_Liga,2022
+,Atlético de Madrid,40,25.8,22,€13.36m,€534.30m,La_Liga,2022
+,Real Sociedad,37,25.0,6,€11.94m,€441.70m,La_Liga,2022
+,Villarreal CF,43,26.4,15,€8.45m,€363.50m,La_Liga,2022
+,Valencia CF,40,24.5,18,€6.24m,€249.78m,La_Liga,2022
+,Real Betis Balompié,38,27.6,13,€6.48m,€246.40m,La_Liga,2022
+,Sevilla FC,42,26.8,23,€5.54m,€232.58m,La_Liga,2022
+,Athletic Bilbao,31,27.1,1,€7.18m,€222.45m,La_Liga,2022
+,CA Osasuna,31,27.2,4,€4.84m,€150.05m,La_Liga,2022
+,Girona FC,37,25.6,13,€3.78m,€139.90m,La_Liga,2022
+,Celta de Vigo,36,25.7,12,€3.86m,€138.80m,La_Liga,2022
+,Getafe CF,34,26.5,14,€3.50m,€118.90m,La_Liga,2022
+,RCD Espanyol Barcelona,37,25.9,11,€3.15m,€116.50m,La_Liga,2022
+,UD Almería,36,25.9,18,€3.17m,€114.20m,La_Liga,2022
+,RCD Mallorca,38,26.9,19,€2.82m,€107.00m,La_Liga,2022
+,Rayo Vallecano,29,28.7,10,€3.57m,€103.40m,La_Liga,2022
+,Real Valladolid CF,41,26.8,18,€2.21m,€90.75m,La_Liga,2022
+,Elche CF,40,27.0,17,€1.69m,€67.50m,La_Liga,2022
+,Cádiz CF,47,27.3,17,€1.40m,€65.60m,La_Liga,2022
+,Real Madrid,37,25.6,21,€30.68m,€1.14bn,La_Liga,2023
+,FC Barcelona,38,24.0,15,€24.11m,€916.20m,La_Liga,2023
+,Real Sociedad,40,25.2,10,€12.46m,€498.50m,La_Liga,2023
+,Atlético de Madrid,42,26.9,23,€10.92m,€458.45m,La_Liga,2023
+,Girona FC,37,25.6,15,€8.05m,€297.90m,La_Liga,2023
+,Athletic Bilbao,31,27.0,2,€9.54m,€295.65m,La_Liga,2023
+,Villarreal CF,39,27.2,15,€6.47m,€252.50m,La_Liga,2023
+,Valencia CF,36,23.8,11,€6.80m,€244.73m,La_Liga,2023
+,Sevilla FC,49,26.7,27,€4.67m,€228.75m,La_Liga,2023
+,Real Betis Balompié,42,27.0,22,€5.35m,€224.88m,La_Liga,2023
+,Celta de Vigo,39,25.9,14,€3.83m,€149.30m,La_Liga,2023
+,Granada CF,46,26.4,18,€3.07m,€141.10m,La_Liga,2023
+,Getafe CF,40,25.7,18,€3.33m,€133.00m,La_Liga,2023
+,Deportivo Alavés,41,24.5,16,€3.02m,€123.70m,La_Liga,2023
+,UD Las Palmas,35,26.2,11,€3.21m,€112.40m,La_Liga,2023
+,CA Osasuna,32,27.2,5,€3.29m,€105.35m,La_Liga,2023
+,UD Almería,41,25.3,22,€2.42m,€99.40m,La_Liga,2023
+,RCD Mallorca,35,26.9,14,€2.51m,€87.70m,La_Liga,2023
+,Rayo Vallecano,30,28.9,12,€2.13m,€63.95m,La_Liga,2023
+,Cádiz CF,44,27.0,15,€1.38m,€60.70m,La_Liga,2023
+,Real Madrid,42,24.4,19,€32.11m,€1.35bn,La_Liga,2024
+,FC Barcelona,39,23.3,11,€27.76m,€1.08bn,La_Liga,2024
+,Atlético de Madrid,41,26.5,22,€13.23m,€542.50m,La_Liga,2024
+,Athletic Bilbao,37,26.1,4,€10.14m,€375.35m,La_Liga,2024
+,Real Sociedad,39,24.6,9,€8.85m,€345.05m,La_Liga,2024
+,Real Betis Balompié,46,26.0,19,€6.34m,€291.70m,La_Liga,2024
+,Villarreal CF,36,26.2,16,€7.34m,€264.25m,La_Liga,2024
+,Valencia CF,44,24.5,13,€4.90m,€215.55m,La_Liga,2024
+,Sevilla FC,44,25.2,19,€4.18m,€183.90m,La_Liga,2024
+,Girona FC,46,25.1,22,€3.33m,€153.10m,La_Liga,2024
+,Celta de Vigo,36,26.3,12,€3.64m,€130.90m,La_Liga,2024
+,UD Las Palmas,42,25.4,15,€2.79m,€117.30m,La_Liga,2024
+,RCD Espanyol Barcelona,37,25.6,10,€3.16m,€116.98m,La_Liga,2024
+,CA Osasuna,34,26.7,4,€3.33m,€113.28m,La_Liga,2024
+,Deportivo Alavés,37,25.8,15,€2.50m,€92.35m,La_Liga,2024
+,Getafe CF,37,25.4,15,€2.37m,€87.70m,La_Liga,2024
+,RCD Mallorca,31,27.6,13,€2.74m,€84.88m,La_Liga,2024
+,Real Valladolid CF,43,25.4,23,€1.89m,€81.45m,La_Liga,2024
+,Rayo Vallecano,34,28.3,11,€2.00m,€68.00m,La_Liga,2024
+,CD Leganés,40,26.1,16,€1.20m,€47.98m,La_Liga,2024
+,Real Madrid,25,25.9,18,€56.04m,€1.40bn,La_Liga,2025
+,FC Barcelona,23,25.5,10,€48.17m,€1.11bn,La_Liga,2025
+,Atlético de Madrid,24,27.6,16,€25.99m,€623.80m,La_Liga,2025
+,Athletic Bilbao,27,27.0,3,€13.69m,€369.70m,La_Liga,2025
+,Villarreal CF,27,26.3,14,€10.38m,€280.30m,La_Liga,2025
+,Real Sociedad,26,25.9,9,€9.73m,€252.90m,La_Liga,2025
+,Real Betis Balompié,26,28.6,12,€8.29m,€215.50m,La_Liga,2025
+,Valencia CF,23,27.2,11,€7.24m,€166.60m,La_Liga,2025
+,Girona FC,25,28.0,14,€6.21m,€155.20m,La_Liga,2025
+,Celta de Vigo,28,26.2,8,€5.05m,€141.40m,La_Liga,2025
+,Sevilla FC,27,27.6,15,€4.71m,€127.10m,La_Liga,2025
+,RCD Espanyol Barcelona,24,26.5,7,€4.13m,€99.00m,La_Liga,2025
+,CA Osasuna,20,28.4,4,€4.44m,€88.70m,La_Liga,2025
+,Rayo Vallecano,24,29.1,13,€3.68m,€88.40m,La_Liga,2025
+,Levante UD,24,26.3,7,€3.63m,€87.20m,La_Liga,2025
+,RCD Mallorca,25,28.0,9,€3.41m,€85.20m,La_Liga,2025
+,Elche CF,26,26.1,10,€3.07m,€79.90m,La_Liga,2025
+,Deportivo Alavés,23,28.1,10,€3.06m,€70.40m,La_Liga,2025
+,Getafe CF,22,28.2,10,€3.08m,€67.80m,La_Liga,2025
+,Real Oviedo,26,28.7,15,€2.34m,€60.80m,La_Liga,2025

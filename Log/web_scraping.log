@@ -1,0 +1,523 @@
+2025-10-23 17:50:53,929-INFO-Log folder created and logging started.
+2025-10-23 17:50:53,930-WARNING-This is a warning message.
+2025-10-23 17:50:53,930-ERROR-This is an error message.
+2025-10-23 17:51:39,744-INFO-Log folder created and logging started.
+2025-10-23 17:51:39,744-WARNING-This is a warning message.
+2025-10-23 17:51:39,744-ERROR-This is an error message.
+2025-10-23 17:53:08,819-INFO-Log folder created and logging started.
+2025-10-23 17:53:08,819-WARNING-This is a warning message.
+2025-10-23 17:53:08,819-ERROR-This is an error message.
+2025-10-23 18:20:04,635-INFO-Log folder created and logging started.
+2025-10-23 18:20:04,635-WARNING-This is a warning message.
+2025-10-23 18:20:04,635-ERROR-This is an error message.
+2025-10-23 19:01:16,832-INFO-Log folder created and logging started.
+2025-10-23 19:01:16,832-WARNING-This is a warning message.
+2025-10-23 19:01:16,832-ERROR-This is an error message.
+2025-10-23 19:46:48,156-INFO-Log folder created and logging started.
+2025-10-23 19:46:48,157-WARNING-This is a warning message.
+2025-10-23 19:46:48,157-ERROR-This is an error message.
+2025-10-23 19:54:43,680-INFO-Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-10-23 19:54:43,680-INFO-NumExpr defaulting to 8 threads.
+2025-10-23 19:54:44,033-INFO-GSMArena scraping jarayoni boshlandi 🚀
+2025-10-23 19:54:44,953-INFO-125 ta brend topildi ✅
+2025-10-23 19:54:44,954-INFO-Acer telefonlari yuklanmoqda...
+2025-10-23 19:54:45,774-INFO-Acer dan 50+ model olindi ✅
+2025-10-23 19:54:45,775-INFO-Alcatel telefonlari yuklanmoqda...
+2025-10-23 19:54:46,604-INFO-Alcatel dan 50+ model olindi ✅
+2025-10-23 19:54:46,604-INFO-Allview telefonlari yuklanmoqda...
+2025-10-23 19:54:47,459-INFO-Allview dan 50+ model olindi ✅
+2025-10-23 19:54:47,459-INFO-Amazon telefonlari yuklanmoqda...
+2025-10-23 19:54:48,294-INFO-Amazon dan 25+ model olindi ✅
+2025-10-23 19:54:48,294-INFO-Amoi telefonlari yuklanmoqda...
+2025-10-23 19:54:49,135-INFO-Amoi dan 47+ model olindi ✅
+2025-10-23 19:54:49,135-INFO-Apple telefonlari yuklanmoqda...
+2025-10-23 19:54:49,889-WARNING-Apple brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/apple-phones-48.php
+2025-10-23 19:54:49,889-INFO-Archos telefonlari yuklanmoqda...
+2025-10-23 19:54:50,683-WARNING-Archos brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/archos-phones-90.php
+2025-10-23 19:54:50,684-INFO-Asus telefonlari yuklanmoqda...
+2025-10-23 19:54:51,437-WARNING-Asus brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/asus-phones-46.php
+2025-10-23 19:54:51,437-INFO-At&t telefonlari yuklanmoqda...
+2025-10-23 19:54:52,378-WARNING-At&t brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/at&t-phones-57.php
+2025-10-23 19:54:52,378-INFO-Benefon telefonlari yuklanmoqda...
+2025-10-23 19:54:53,318-WARNING-Benefon brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/benefon-phones-15.php
+2025-10-23 19:54:53,319-INFO-Benq telefonlari yuklanmoqda...
+2025-10-23 19:54:54,202-WARNING-Benq brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/benq-phones-31.php
+2025-10-23 19:54:54,202-INFO-Benq_siemens telefonlari yuklanmoqda...
+2025-10-23 19:54:55,095-WARNING-Benq_siemens brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/benq_siemens-phones-42.php
+2025-10-23 19:54:55,096-INFO-Bird telefonlari yuklanmoqda...
+2025-10-23 19:54:56,036-WARNING-Bird brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/bird-phones-34.php
+2025-10-23 19:54:56,036-INFO-Blackberry telefonlari yuklanmoqda...
+2025-10-23 19:54:56,974-WARNING-Blackberry brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/blackberry-phones-36.php
+2025-10-23 19:54:56,974-INFO-Blackview telefonlari yuklanmoqda...
+2025-10-23 19:54:57,876-WARNING-Blackview brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/blackview-phones-116.php
+2025-10-23 19:54:57,876-INFO-Blu telefonlari yuklanmoqda...
+2025-10-23 19:54:58,748-WARNING-Blu brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/blu-phones-67.php
+2025-10-23 19:54:58,748-INFO-Bosch telefonlari yuklanmoqda...
+2025-10-23 19:54:59,524-WARNING-Bosch brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/bosch-phones-10.php
+2025-10-23 19:54:59,524-INFO-Bq telefonlari yuklanmoqda...
+2025-10-23 19:55:00,421-WARNING-Bq brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/bq-phones-108.php
+2025-10-23 19:55:00,422-INFO-Casio telefonlari yuklanmoqda...
+2025-10-23 19:55:01,361-WARNING-Casio brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/casio-phones-77.php
+2025-10-23 19:55:01,362-INFO-Cat telefonlari yuklanmoqda...
+2025-10-23 19:55:02,300-WARNING-Cat brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/cat-phones-89.php
+2025-10-23 19:55:02,300-INFO-Celkon telefonlari yuklanmoqda...
+2025-10-23 19:55:03,242-WARNING-Celkon brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/celkon-phones-75.php
+2025-10-23 19:55:03,243-INFO-Chea telefonlari yuklanmoqda...
+2025-10-23 19:55:04,179-WARNING-Chea brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/chea-phones-24.php
+2025-10-23 19:55:04,180-INFO-Coolpad telefonlari yuklanmoqda...
+2025-10-23 19:55:05,120-WARNING-Coolpad brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/coolpad-phones-105.php
+2025-10-23 19:55:05,120-INFO-Cubot telefonlari yuklanmoqda...
+2025-10-23 19:55:06,061-WARNING-Cubot brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/cubot-phones-130.php
+2025-10-23 19:55:06,061-INFO-Dell telefonlari yuklanmoqda...
+2025-10-23 19:55:07,000-WARNING-Dell brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/dell-phones-61.php
+2025-10-23 19:55:07,000-INFO-Doogee telefonlari yuklanmoqda...
+2025-10-23 19:55:07,940-WARNING-Doogee brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/doogee-phones-129.php
+2025-10-23 19:55:07,941-INFO-Emporia telefonlari yuklanmoqda...
+2025-10-23 19:55:08,881-WARNING-Emporia brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/emporia-phones-93.php
+2025-10-23 19:55:08,882-INFO-Energizer telefonlari yuklanmoqda...
+2025-10-23 19:55:09,715-WARNING-Energizer brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/energizer-phones-106.php
+2025-10-23 19:55:09,716-INFO-Ericsson telefonlari yuklanmoqda...
+2025-10-23 19:55:10,655-WARNING-Ericsson brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/ericsson-phones-2.php
+2025-10-23 19:55:10,655-INFO-Eten telefonlari yuklanmoqda...
+2025-10-23 19:55:11,597-WARNING-Eten brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/eten-phones-40.php
+2025-10-23 19:55:11,597-INFO-Fairphone telefonlari yuklanmoqda...
+2025-10-23 19:55:12,433-WARNING-Fairphone brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/fairphone-phones-127.php
+2025-10-23 19:55:12,434-INFO-Fujitsu_siemens telefonlari yuklanmoqda...
+2025-10-23 19:55:13,372-WARNING-Fujitsu_siemens brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/fujitsu_siemens-phones-50.php
+2025-10-23 19:55:13,372-INFO-Garmin_asus telefonlari yuklanmoqda...
+2025-10-23 19:55:14,313-WARNING-Garmin_asus brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/garmin_asus-phones-65.php
+2025-10-23 19:55:14,313-INFO-Gigabyte telefonlari yuklanmoqda...
+2025-10-23 19:55:15,252-WARNING-Gigabyte brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/gigabyte-phones-47.php
+2025-10-23 19:55:15,252-INFO-Gionee telefonlari yuklanmoqda...
+2025-10-23 19:55:16,090-WARNING-Gionee brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/gionee-phones-92.php
+2025-10-23 19:55:16,090-INFO-Google telefonlari yuklanmoqda...
+2025-10-23 19:55:17,027-WARNING-Google brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/google-phones-107.php
+2025-10-23 19:55:17,029-INFO-Haier telefonlari yuklanmoqda...
+2025-10-23 19:55:17,803-WARNING-Haier brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/haier-phones-33.php
+2025-10-23 19:55:17,803-INFO-Hmd telefonlari yuklanmoqda...
+2025-10-23 19:55:18,575-WARNING-Hmd brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/hmd-phones-133.php
+2025-10-23 19:55:18,575-INFO-Honor telefonlari yuklanmoqda...
+2025-10-23 19:55:19,345-WARNING-Honor brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/honor-phones-121.php
+2025-10-23 19:55:19,345-INFO-Hp telefonlari yuklanmoqda...
+2025-10-23 19:55:20,118-WARNING-Hp brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/hp-phones-41.php
+2025-10-23 19:55:20,118-INFO-Htc telefonlari yuklanmoqda...
+2025-10-23 19:55:21,005-WARNING-Htc brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/htc-phones-45.php
+2025-10-23 19:55:21,005-INFO-Huawei telefonlari yuklanmoqda...
+2025-10-23 19:55:21,878-WARNING-Huawei brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/huawei-phones-58.php
+2025-10-23 19:55:21,878-INFO-I_mate telefonlari yuklanmoqda...
+2025-10-23 19:55:22,643-WARNING-I_mate brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/i_mate-phones-35.php
+2025-10-23 19:55:22,643-INFO-I_mobile telefonlari yuklanmoqda...
+2025-10-23 19:55:23,453-WARNING-I_mobile brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/i_mobile-phones-52.php
+2025-10-23 19:55:23,453-INFO-Icemobile telefonlari yuklanmoqda...
+2025-10-23 19:55:24,225-WARNING-Icemobile brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/icemobile-phones-69.php
+2025-10-23 19:55:24,225-INFO-Infinix telefonlari yuklanmoqda...
+2025-10-23 19:55:24,995-WARNING-Infinix brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/infinix-phones-119.php
+2025-10-23 19:55:24,996-INFO-Innostream telefonlari yuklanmoqda...
+2025-10-23 19:55:25,743-WARNING-Innostream brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/innostream-phones-29.php
+2025-10-23 19:55:25,744-INFO-Inq telefonlari yuklanmoqda...
+2025-10-23 19:55:26,516-WARNING-Inq brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/inq-phones-60.php
+2025-10-23 19:55:26,516-INFO-Intex telefonlari yuklanmoqda...
+2025-10-23 19:55:27,284-WARNING-Intex brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/intex-phones-102.php
+2025-10-23 19:55:27,284-INFO-Itel telefonlari yuklanmoqda...
+2025-10-23 19:55:28,056-WARNING-Itel brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/itel-phones-131.php
+2025-10-23 19:55:28,056-INFO-Jolla telefonlari yuklanmoqda...
+2025-10-23 19:55:28,824-WARNING-Jolla brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/jolla-phones-84.php
+2025-10-23 19:55:28,824-INFO-Karbonn telefonlari yuklanmoqda...
+2025-10-23 19:55:29,604-WARNING-Karbonn brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/karbonn-phones-83.php
+2025-10-23 19:55:29,605-INFO-Kyocera telefonlari yuklanmoqda...
+2025-10-23 19:55:30,353-WARNING-Kyocera brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/kyocera-phones-17.php
+2025-10-23 19:55:30,353-INFO-Lava telefonlari yuklanmoqda...
+2025-10-23 19:55:31,127-WARNING-Lava brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/lava-phones-94.php
+2025-10-23 19:55:31,128-INFO-Leeco telefonlari yuklanmoqda...
+2025-10-23 19:55:31,919-WARNING-Leeco brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/leeco-phones-109.php
+2025-10-23 19:55:31,919-INFO-Lenovo telefonlari yuklanmoqda...
+2025-10-23 19:55:32,690-WARNING-Lenovo brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/lenovo-phones-73.php
+2025-10-23 19:55:32,690-INFO-Lg telefonlari yuklanmoqda...
+2025-10-23 19:55:33,530-WARNING-Lg brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/lg-phones-20.php
+2025-10-23 19:55:33,530-INFO-Maxon telefonlari yuklanmoqda...
+2025-10-23 19:55:34,470-WARNING-Maxon brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/maxon-phones-14.php
+2025-10-23 19:55:34,471-INFO-Maxwest telefonlari yuklanmoqda...
+2025-10-23 19:55:35,318-WARNING-Maxwest brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/maxwest-phones-87.php
+2025-10-23 19:55:35,319-INFO-Meizu telefonlari yuklanmoqda...
+2025-10-23 19:55:36,152-WARNING-Meizu brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/meizu-phones-74.php
+2025-10-23 19:55:36,152-INFO-Micromax telefonlari yuklanmoqda...
+2025-10-23 19:55:36,921-WARNING-Micromax brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/micromax-phones-66.php
+2025-10-23 19:55:36,921-INFO-Microsoft telefonlari yuklanmoqda...
+2025-10-23 19:55:37,687-WARNING-Microsoft brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/microsoft-phones-64.php
+2025-10-23 19:55:37,688-INFO-Mitac telefonlari yuklanmoqda...
+2025-10-23 19:55:38,471-WARNING-Mitac brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/mitac-phones-25.php
+2025-10-23 19:55:38,471-INFO-Mitsubishi telefonlari yuklanmoqda...
+2025-10-23 19:55:39,262-WARNING-Mitsubishi brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/mitsubishi-phones-8.php
+2025-10-23 19:55:39,263-INFO-Modu telefonlari yuklanmoqda...
+2025-10-23 19:55:40,031-WARNING-Modu brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/modu-phones-63.php
+2025-10-23 19:55:40,032-INFO-Motorola telefonlari yuklanmoqda...
+2025-10-23 19:55:40,797-WARNING-Motorola brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/motorola-phones-4.php
+2025-10-23 19:55:40,797-INFO-Mwg telefonlari yuklanmoqda...
+2025-10-23 19:55:41,565-WARNING-Mwg brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/mwg-phones-56.php
+2025-10-23 19:55:41,565-INFO-Nec telefonlari yuklanmoqda...
+2025-10-23 19:55:42,359-WARNING-Nec brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/nec-phones-12.php
+2025-10-23 19:55:42,360-INFO-Neonode telefonlari yuklanmoqda...
+2025-10-23 19:55:43,152-WARNING-Neonode brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/neonode-phones-22.php
+2025-10-23 19:55:43,152-INFO-Niu telefonlari yuklanmoqda...
+2025-10-23 19:55:43,901-WARNING-Niu brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/niu-phones-79.php
+2025-10-23 19:55:43,901-INFO-Nokia telefonlari yuklanmoqda...
+2025-10-23 19:55:44,666-WARNING-Nokia brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/nokia-phones-1.php
+2025-10-23 19:55:44,666-INFO-Nothing telefonlari yuklanmoqda...
+2025-10-23 19:55:45,416-WARNING-Nothing brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/nothing-phones-128.php
+2025-10-23 19:55:45,417-INFO-Nvidia telefonlari yuklanmoqda...
+2025-10-23 19:55:46,167-WARNING-Nvidia brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/nvidia-phones-97.php
+2025-10-23 19:55:46,168-INFO-O2 telefonlari yuklanmoqda...
+2025-10-23 19:55:46,911-WARNING-O2 brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/o2-phones-30.php
+2025-10-23 19:55:46,912-INFO-Oneplus telefonlari yuklanmoqda...
+2025-10-23 19:55:47,707-WARNING-Oneplus brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/oneplus-phones-95.php
+2025-10-23 19:55:47,707-INFO-Oppo telefonlari yuklanmoqda...
+2025-10-23 19:55:48,460-WARNING-Oppo brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/oppo-phones-82.php
+2025-10-23 19:55:48,460-INFO-Orange telefonlari yuklanmoqda...
+2025-10-23 19:55:49,231-WARNING-Orange brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/orange-phones-71.php
+2025-10-23 19:55:49,231-INFO-Oscal telefonlari yuklanmoqda...
+2025-10-23 19:55:50,006-WARNING-Oscal brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/oscal-phones-134.php
+2025-10-23 19:55:50,006-INFO-Oukitel telefonlari yuklanmoqda...
+2025-10-23 19:55:50,778-WARNING-Oukitel brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/oukitel-phones-132.php
+2025-10-23 19:55:50,778-INFO-Palm telefonlari yuklanmoqda...
+2025-10-23 19:55:51,532-WARNING-Palm brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/palm-phones-27.php
+2025-10-23 19:55:51,533-INFO-Panasonic telefonlari yuklanmoqda...
+2025-10-23 19:55:52,324-WARNING-Panasonic brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/panasonic-phones-6.php
+2025-10-23 19:55:52,325-INFO-Pantech telefonlari yuklanmoqda...
+2025-10-23 19:55:53,098-WARNING-Pantech brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/pantech-phones-32.php
+2025-10-23 19:55:53,098-INFO-Parla telefonlari yuklanmoqda...
+2025-10-23 19:55:53,873-WARNING-Parla brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/parla-phones-81.php
+2025-10-23 19:55:53,873-INFO-Philips telefonlari yuklanmoqda...
+2025-10-23 19:55:54,646-WARNING-Philips brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/philips-phones-11.php
+2025-10-23 19:55:54,646-INFO-Plum telefonlari yuklanmoqda...
+2025-10-23 19:55:55,473-WARNING-Plum brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/plum-phones-72.php
+2025-10-23 19:55:55,475-INFO-Posh telefonlari yuklanmoqda...
+2025-10-23 19:55:56,376-WARNING-Posh brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/posh-phones-101.php
+2025-10-23 19:55:56,377-INFO-Prestigio telefonlari yuklanmoqda...
+2025-10-23 19:55:57,565-WARNING-Prestigio brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/prestigio-phones-86.php
+2025-10-23 19:55:57,565-INFO-Qmobile telefonlari yuklanmoqda...
+2025-10-23 19:55:58,392-WARNING-Qmobile brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/qmobile-phones-103.php
+2025-10-23 19:55:58,392-INFO-Qtek telefonlari yuklanmoqda...
+2025-10-23 19:55:59,163-WARNING-Qtek brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/qtek-phones-38.php
+2025-10-23 19:55:59,164-INFO-Razer telefonlari yuklanmoqda...
+2025-10-23 19:55:59,956-WARNING-Razer brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/razer-phones-117.php
+2025-10-23 19:55:59,956-INFO-Realme telefonlari yuklanmoqda...
+2025-10-23 19:56:00,727-WARNING-Realme brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/realme-phones-118.php
+2025-10-23 19:56:00,727-INFO-Sagem telefonlari yuklanmoqda...
+2025-10-23 19:56:01,522-WARNING-Sagem brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sagem-phones-13.php
+2025-10-23 19:56:01,523-INFO-Samsung telefonlari yuklanmoqda...
+2025-10-23 19:56:02,296-WARNING-Samsung brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/samsung-phones-9.php
+2025-10-23 19:56:02,296-INFO-Sendo telefonlari yuklanmoqda...
+2025-10-23 19:56:03,091-WARNING-Sendo brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sendo-phones-18.php
+2025-10-23 19:56:03,092-INFO-Sewon telefonlari yuklanmoqda...
+2025-10-23 19:56:03,868-WARNING-Sewon brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sewon-phones-26.php
+2025-10-23 19:56:03,868-INFO-Sharp telefonlari yuklanmoqda...
+2025-10-23 19:56:04,655-WARNING-Sharp brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sharp-phones-23.php
+2025-10-23 19:56:04,655-INFO-Siemens telefonlari yuklanmoqda...
+2025-10-23 19:56:05,423-WARNING-Siemens brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/siemens-phones-3.php
+2025-10-23 19:56:05,423-INFO-Sonim telefonlari yuklanmoqda...
+2025-10-23 19:56:06,170-WARNING-Sonim brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sonim-phones-54.php
+2025-10-23 19:56:06,170-INFO-Sony telefonlari yuklanmoqda...
+2025-10-23 19:56:06,944-WARNING-Sony brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sony-phones-7.php
+2025-10-23 19:56:06,944-INFO-Sony_ericsson telefonlari yuklanmoqda...
+2025-10-23 19:56:07,715-WARNING-Sony_ericsson brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/sony_ericsson-phones-19.php
+2025-10-23 19:56:07,715-INFO-Spice telefonlari yuklanmoqda...
+2025-10-23 19:56:08,464-WARNING-Spice brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/spice-phones-68.php
+2025-10-23 19:56:08,464-INFO-T_mobile telefonlari yuklanmoqda...
+2025-10-23 19:56:09,255-WARNING-T_mobile brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/t_mobile-phones-55.php
+2025-10-23 19:56:09,255-INFO-Tcl telefonlari yuklanmoqda...
+2025-10-23 19:56:10,030-WARNING-Tcl brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/tcl-phones-123.php
+2025-10-23 19:56:10,030-INFO-Tecno telefonlari yuklanmoqda...
+2025-10-23 19:56:10,781-WARNING-Tecno brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/tecno-phones-120.php
+2025-10-23 19:56:10,781-INFO-Tel_me_ telefonlari yuklanmoqda...
+2025-10-23 19:56:11,531-WARNING-Tel_me_ brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/tel_me_-phones-21.php
+2025-10-23 19:56:11,533-INFO-Telit telefonlari yuklanmoqda...
+2025-10-23 19:56:12,326-WARNING-Telit brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/telit-phones-16.php
+2025-10-23 19:56:12,326-INFO-Thuraya telefonlari yuklanmoqda...
+2025-10-23 19:56:13,097-WARNING-Thuraya brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/thuraya-phones-49.php
+2025-10-23 19:56:13,097-INFO-Toshiba telefonlari yuklanmoqda...
+2025-10-23 19:56:13,882-WARNING-Toshiba brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/toshiba-phones-44.php
+2025-10-23 19:56:13,882-INFO-Ulefone telefonlari yuklanmoqda...
+2025-10-23 19:56:14,659-WARNING-Ulefone brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/ulefone-phones-124.php
+2025-10-23 19:56:14,659-INFO-Umidigi telefonlari yuklanmoqda...
+2025-10-23 19:56:15,426-WARNING-Umidigi brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/umidigi-phones-135.php
+2025-10-23 19:56:15,426-INFO-Unnecto telefonlari yuklanmoqda...
+2025-10-23 19:56:16,201-WARNING-Unnecto brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/unnecto-phones-91.php
+2025-10-23 19:56:16,202-INFO-Vertu telefonlari yuklanmoqda...
+2025-10-23 19:56:16,991-WARNING-Vertu brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/vertu-phones-39.php
+2025-10-23 19:56:16,991-INFO-Verykool telefonlari yuklanmoqda...
+2025-10-23 19:56:17,738-WARNING-Verykool brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/verykool-phones-70.php
+2025-10-23 19:56:17,738-INFO-Vivo telefonlari yuklanmoqda...
+2025-10-23 19:56:18,497-WARNING-Vivo brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/vivo-phones-98.php
+2025-10-23 19:56:18,497-INFO-Vk_mobile telefonlari yuklanmoqda...
+2025-10-23 19:56:19,270-WARNING-Vk_mobile brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/vk_mobile-phones-37.php
+2025-10-23 19:56:19,270-INFO-Vodafone telefonlari yuklanmoqda...
+2025-10-23 19:56:20,051-WARNING-Vodafone brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/vodafone-phones-53.php
+2025-10-23 19:56:20,051-INFO-Wiko telefonlari yuklanmoqda...
+2025-10-23 19:56:20,820-WARNING-Wiko brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/wiko-phones-96.php
+2025-10-23 19:56:20,821-INFO-Wnd telefonlari yuklanmoqda...
+2025-10-23 19:56:21,590-WARNING-Wnd brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/wnd-phones-51.php
+2025-10-23 19:56:21,590-INFO-Xcute telefonlari yuklanmoqda...
+2025-10-23 19:56:22,358-WARNING-Xcute brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/xcute-phones-43.php
+2025-10-23 19:56:22,358-INFO-Xiaomi telefonlari yuklanmoqda...
+2025-10-23 19:56:23,128-WARNING-Xiaomi brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/xiaomi-phones-80.php
+2025-10-23 19:56:23,128-INFO-Xolo telefonlari yuklanmoqda...
+2025-10-23 19:56:23,902-WARNING-Xolo brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/xolo-phones-85.php
+2025-10-23 19:56:23,903-INFO-Yezz telefonlari yuklanmoqda...
+2025-10-23 19:56:24,655-WARNING-Yezz brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/yezz-phones-78.php
+2025-10-23 19:56:24,655-INFO-Yota telefonlari yuklanmoqda...
+2025-10-23 19:56:25,424-WARNING-Yota brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/yota-phones-99.php
+2025-10-23 19:56:25,425-INFO-Yu telefonlari yuklanmoqda...
+2025-10-23 19:56:26,218-WARNING-Yu brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/yu-phones-100.php
+2025-10-23 19:56:26,219-INFO-Zte telefonlari yuklanmoqda...
+2025-10-23 19:56:26,966-WARNING-Zte brendida xatolik: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/zte-phones-62.php
+2025-10-23 19:56:26,966-INFO-Jami yig‘ilgan telefonlar soni: 222
+2025-10-23 19:59:38,422-INFO-phones.csv faylga saqlandi 📂
+2025-10-23 19:59:38,423-INFO-Scraping yakunlandi ✅
+2025-10-23 20:46:26,904-INFO-Football-data.co.uk scraping boshlandi ⚽
+2025-10-23 20:46:29,061-WARNING-2021 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:46:31,484-WARNING-2122 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:46:33,695-WARNING-2223 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:46:35,733-WARNING-2324 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:46:37,773-WARNING-2425 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:47:41,295-INFO-Football-data.co.uk scraping boshlandi ⚽
+2025-10-23 20:47:43,461-WARNING-2021 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:47:45,356-WARNING-2122 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:47:47,190-WARNING-2223 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:47:49,060-WARNING-2324 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-23 20:47:51,124-WARNING-2425 uchun ma’lumot topilmadi: module 'pandas.compat' has no attribute 'StringIO'
+2025-10-25 13:06:31,502-INFO-Log folder created and logging started.
+2025-10-25 13:06:31,502-WARNING-This is a warning message.
+2025-10-25 13:06:31,502-ERROR-This is an error message.
+2025-10-25 13:06:36,745-INFO-Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-10-25 13:06:36,745-INFO-NumExpr defaulting to 8 threads.
+2025-10-26 10:18:24,982-INFO-Log folder created and logging started.
+2025-10-26 10:18:24,986-WARNING-This is a warning message.
+2025-10-26 10:18:24,986-ERROR-This is an error message.
+2025-10-26 10:19:50,385-INFO-Log folder yaratildi and logging qilish boshlandi.
+2025-10-26 10:19:50,385-WARNING-Bu warning xabari.
+2025-10-26 10:19:50,386-ERROR-Xatolik yuz berdi
+2025-10-26 10:42:01,111-INFO-Log tizimi ishga tushdi — Web scraping boshlanmoqda.
+2025-10-26 10:42:01,112-INFO-Premier_League ligasi uchun scraping boshlandi.
+2025-10-26 10:42:01,116-INFO-Premier_League | 2005 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2005
+2025-10-26 10:42:09,791-INFO-Premier_League | 2005: 20 ta qator olindi.
+2025-10-26 10:42:10,791-INFO-Premier_League | 2006 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2006
+2025-10-26 10:42:24,324-INFO-Premier_League | 2006: 20 ta qator olindi.
+2025-10-26 10:42:25,324-INFO-Premier_League | 2007 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2007
+2025-10-26 10:42:39,548-INFO-Premier_League | 2007: 20 ta qator olindi.
+2025-10-26 10:42:40,549-INFO-Premier_League | 2008 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2008
+2025-10-26 10:42:48,192-INFO-Premier_League | 2008: 20 ta qator olindi.
+2025-10-26 10:42:49,194-INFO-Premier_League | 2009 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2009
+2025-10-26 10:42:51,231-INFO-Premier_League | 2009: 20 ta qator olindi.
+2025-10-26 10:42:52,231-INFO-Premier_League | 2010 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2010
+2025-10-26 10:43:06,520-INFO-Premier_League | 2010: 20 ta qator olindi.
+2025-10-26 10:43:07,521-INFO-Premier_League | 2011 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2011
+2025-10-26 10:44:26,272-INFO-Premier_League | 2011: 20 ta qator olindi.
+2025-10-26 10:44:27,273-INFO-Premier_League | 2012 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2012
+2025-10-26 10:44:29,077-INFO-Premier_League | 2012: 20 ta qator olindi.
+2025-10-26 10:44:30,078-INFO-Premier_League | 2013 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2013
+2025-10-26 10:44:37,647-INFO-Premier_League | 2013: 20 ta qator olindi.
+2025-10-26 10:44:38,648-INFO-Premier_League | 2014 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2014
+2025-10-26 10:44:46,116-INFO-Premier_League | 2014: 20 ta qator olindi.
+2025-10-26 10:44:47,116-INFO-Premier_League | 2015 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2015
+2025-10-26 10:44:53,812-INFO-Premier_League | 2015: 20 ta qator olindi.
+2025-10-26 10:44:54,814-INFO-Premier_League | 2016 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2016
+2025-10-26 10:45:09,158-INFO-Premier_League | 2016: 20 ta qator olindi.
+2025-10-26 10:45:10,158-INFO-Premier_League | 2017 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2017
+2025-10-26 10:45:23,924-INFO-Premier_League | 2017: 20 ta qator olindi.
+2025-10-26 10:45:24,924-INFO-Premier_League | 2018 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2018
+2025-10-26 10:45:39,553-INFO-Premier_League | 2018: 20 ta qator olindi.
+2025-10-26 10:45:40,554-INFO-Premier_League | 2019 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2019
+2025-10-26 10:45:49,311-INFO-Premier_League | 2019: 20 ta qator olindi.
+2025-10-26 10:45:50,312-INFO-Premier_League | 2020 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2020
+2025-10-26 10:46:05,114-INFO-Premier_League | 2020: 20 ta qator olindi.
+2025-10-26 10:46:06,115-INFO-Premier_League | 2021 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2021
+2025-10-26 10:46:20,445-INFO-Premier_League | 2021: 20 ta qator olindi.
+2025-10-26 10:46:21,446-INFO-Premier_League | 2022 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2022
+2025-10-26 10:46:42,012-INFO-Premier_League | 2022: 20 ta qator olindi.
+2025-10-26 10:46:43,013-INFO-Premier_League | 2023 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2023
+2025-10-26 10:46:51,219-INFO-Premier_League | 2023: 20 ta qator olindi.
+2025-10-26 10:46:52,220-INFO-Premier_League | 2024 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2024
+2025-10-26 10:47:25,319-INFO-Premier_League | 2024: 20 ta qator olindi.
+2025-10-26 10:47:26,320-INFO-Premier_League | 2025 yil uchun URL: https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/plus/?saison_id=2025
+2025-10-26 10:47:28,866-INFO-Premier_League | 2025: 20 ta qator olindi.
+2025-10-26 10:47:29,880-INFO-Premier_League uchun CSV saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data\Web_scraped\Premier_League_20years.csv
+2025-10-26 10:47:29,880-INFO-La_Liga ligasi uchun scraping boshlandi.
+2025-10-26 10:47:29,881-INFO-La_Liga | 2005 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2005
+2025-10-26 10:47:32,233-INFO-La_Liga | 2005: 20 ta qator olindi.
+2025-10-26 10:47:33,234-INFO-La_Liga | 2006 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2006
+2025-10-26 10:48:38,401-INFO-La_Liga | 2006: 20 ta qator olindi.
+2025-10-26 10:48:39,406-INFO-La_Liga | 2007 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2007
+2025-10-26 10:48:45,517-INFO-La_Liga | 2007: 20 ta qator olindi.
+2025-10-26 10:48:46,518-INFO-La_Liga | 2008 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2008
+2025-10-26 10:48:57,024-INFO-La_Liga | 2008: 20 ta qator olindi.
+2025-10-26 10:48:58,025-INFO-La_Liga | 2009 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2009
+2025-10-26 10:49:11,954-INFO-La_Liga | 2009: 20 ta qator olindi.
+2025-10-26 10:49:12,955-INFO-La_Liga | 2010 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2010
+2025-10-26 10:49:14,376-INFO-La_Liga | 2010: 20 ta qator olindi.
+2025-10-26 10:49:15,377-INFO-La_Liga | 2011 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2011
+2025-10-26 10:49:26,438-INFO-La_Liga | 2011: 20 ta qator olindi.
+2025-10-26 10:49:27,439-INFO-La_Liga | 2012 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2012
+2025-10-26 10:49:40,351-INFO-La_Liga | 2012: 20 ta qator olindi.
+2025-10-26 10:49:41,351-INFO-La_Liga | 2013 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2013
+2025-10-26 10:49:43,004-INFO-La_Liga | 2013: 20 ta qator olindi.
+2025-10-26 10:49:44,005-INFO-La_Liga | 2014 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2014
+2025-10-26 10:50:45,712-INFO-La_Liga | 2014: 20 ta qator olindi.
+2025-10-26 10:50:46,714-INFO-La_Liga | 2015 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2015
+2025-10-26 10:50:57,951-INFO-La_Liga | 2015: 20 ta qator olindi.
+2025-10-26 10:50:58,954-INFO-La_Liga | 2016 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2016
+2025-10-26 10:51:13,856-INFO-La_Liga | 2016: 20 ta qator olindi.
+2025-10-26 10:51:14,857-INFO-La_Liga | 2017 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2017
+2025-10-26 10:52:09,614-INFO-La_Liga | 2017: 20 ta qator olindi.
+2025-10-26 10:52:10,614-INFO-La_Liga | 2018 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2018
+2025-10-26 10:52:17,786-INFO-La_Liga | 2018: 20 ta qator olindi.
+2025-10-26 10:52:18,788-INFO-La_Liga | 2019 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2019
+2025-10-26 10:52:24,620-INFO-La_Liga | 2019: 20 ta qator olindi.
+2025-10-26 10:52:25,621-INFO-La_Liga | 2020 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2020
+2025-10-26 10:52:26,976-INFO-La_Liga | 2020: 20 ta qator olindi.
+2025-10-26 10:52:27,976-INFO-La_Liga | 2021 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2021
+2025-10-26 10:52:31,948-INFO-La_Liga | 2021: 20 ta qator olindi.
+2025-10-26 10:52:32,949-INFO-La_Liga | 2022 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2022
+2025-10-26 10:52:40,093-INFO-La_Liga | 2022: 20 ta qator olindi.
+2025-10-26 10:52:41,095-INFO-La_Liga | 2023 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2023
+2025-10-26 10:52:52,474-INFO-La_Liga | 2023: 20 ta qator olindi.
+2025-10-26 10:52:53,475-INFO-La_Liga | 2024 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2024
+2025-10-26 10:53:01,772-INFO-La_Liga | 2024: 20 ta qator olindi.
+2025-10-26 10:53:02,773-INFO-La_Liga | 2025 yil uchun URL: https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1/plus/?saison_id=2025
+2025-10-26 10:53:04,861-INFO-La_Liga | 2025: 20 ta qator olindi.
+2025-10-26 10:53:05,870-INFO-La_Liga uchun CSV saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data\Web_scraped\La_Liga_20years.csv
+2025-10-26 10:53:05,870-INFO-Bundesliga ligasi uchun scraping boshlandi.
+2025-10-26 10:53:05,871-INFO-Bundesliga | 2005 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2005
+2025-10-26 10:53:15,912-INFO-Bundesliga | 2005: 18 ta qator olindi.
+2025-10-26 10:53:16,913-INFO-Bundesliga | 2006 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2006
+2025-10-26 10:53:31,822-INFO-Bundesliga | 2006: 18 ta qator olindi.
+2025-10-26 10:53:32,824-INFO-Bundesliga | 2007 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2007
+2025-10-26 10:53:45,536-INFO-Bundesliga | 2007: 18 ta qator olindi.
+2025-10-26 10:53:46,537-INFO-Bundesliga | 2008 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2008
+2025-10-26 10:53:48,355-INFO-Bundesliga | 2008: 18 ta qator olindi.
+2025-10-26 10:53:49,355-INFO-Bundesliga | 2009 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2009
+2025-10-26 10:54:01,391-INFO-Bundesliga | 2009: 18 ta qator olindi.
+2025-10-26 10:54:02,392-INFO-Bundesliga | 2010 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2010
+2025-10-26 10:54:16,015-INFO-Bundesliga | 2010: 18 ta qator olindi.
+2025-10-26 10:54:17,016-INFO-Bundesliga | 2011 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2011
+2025-10-26 10:55:09,018-INFO-Bundesliga | 2011: 18 ta qator olindi.
+2025-10-26 10:55:10,019-INFO-Bundesliga | 2012 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2012
+2025-10-26 10:55:21,953-INFO-Bundesliga | 2012: 18 ta qator olindi.
+2025-10-26 10:55:22,955-INFO-Bundesliga | 2013 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2013
+2025-10-26 10:56:23,159-INFO-Bundesliga | 2013: 18 ta qator olindi.
+2025-10-26 10:56:24,160-INFO-Bundesliga | 2014 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2014
+2025-10-26 10:56:33,106-INFO-Bundesliga | 2014: 18 ta qator olindi.
+2025-10-26 10:56:34,108-INFO-Bundesliga | 2015 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2015
+2025-10-26 10:56:43,917-INFO-Bundesliga | 2015: 18 ta qator olindi.
+2025-10-26 10:56:44,919-INFO-Bundesliga | 2016 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2016
+2025-10-26 10:56:56,522-INFO-Bundesliga | 2016: 18 ta qator olindi.
+2025-10-26 10:56:57,523-INFO-Bundesliga | 2017 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2017
+2025-10-26 10:57:07,090-INFO-Bundesliga | 2017: 18 ta qator olindi.
+2025-10-26 10:57:08,092-INFO-Bundesliga | 2018 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2018
+2025-10-26 10:57:18,108-INFO-Bundesliga | 2018: 18 ta qator olindi.
+2025-10-26 10:57:19,109-INFO-Bundesliga | 2019 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2019
+2025-10-26 10:57:30,186-INFO-Bundesliga | 2019: 18 ta qator olindi.
+2025-10-26 10:57:31,187-INFO-Bundesliga | 2020 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2020
+2025-10-26 10:57:36,597-INFO-Bundesliga | 2020: 18 ta qator olindi.
+2025-10-26 10:57:37,597-INFO-Bundesliga | 2021 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2021
+2025-10-26 10:57:43,460-INFO-Bundesliga | 2021: 18 ta qator olindi.
+2025-10-26 10:57:44,461-INFO-Bundesliga | 2022 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2022
+2025-10-26 10:57:49,207-INFO-Bundesliga | 2022: 18 ta qator olindi.
+2025-10-26 10:57:50,207-INFO-Bundesliga | 2023 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2023
+2025-10-26 10:57:51,657-INFO-Bundesliga | 2023: 18 ta qator olindi.
+2025-10-26 10:57:52,658-INFO-Bundesliga | 2024 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2024
+2025-10-26 10:57:54,343-INFO-Bundesliga | 2024: 18 ta qator olindi.
+2025-10-26 10:57:55,344-INFO-Bundesliga | 2025 yil uchun URL: https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1/plus/?saison_id=2025
+2025-10-26 10:57:56,631-INFO-Bundesliga | 2025: 18 ta qator olindi.
+2025-10-26 10:57:57,636-INFO-Bundesliga uchun CSV saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data\Web_scraped\Bundesliga_20years.csv
+2025-10-26 10:57:57,636-INFO-Serie_A ligasi uchun scraping boshlandi.
+2025-10-26 10:57:57,636-INFO-Serie_A | 2005 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2005
+2025-10-26 10:57:58,990-INFO-Serie_A | 2005: 20 ta qator olindi.
+2025-10-26 10:57:59,991-INFO-Serie_A | 2006 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2006
+2025-10-26 10:58:10,875-INFO-Serie_A | 2006: 20 ta qator olindi.
+2025-10-26 10:58:11,876-INFO-Serie_A | 2007 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2007
+2025-10-26 10:58:25,120-INFO-Serie_A | 2007: 20 ta qator olindi.
+2025-10-26 10:58:26,120-INFO-Serie_A | 2008 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2008
+2025-10-26 10:58:38,457-INFO-Serie_A | 2008: 20 ta qator olindi.
+2025-10-26 10:58:39,457-INFO-Serie_A | 2009 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2009
+2025-10-26 10:58:55,683-INFO-Serie_A | 2009: 20 ta qator olindi.
+2025-10-26 10:58:56,683-INFO-Serie_A | 2010 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2010
+2025-10-26 10:58:58,177-INFO-Serie_A | 2010: 20 ta qator olindi.
+2025-10-26 10:58:59,178-INFO-Serie_A | 2011 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2011
+2025-10-26 10:59:06,827-INFO-Serie_A | 2011: 20 ta qator olindi.
+2025-10-26 10:59:07,827-INFO-Serie_A | 2012 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2012
+2025-10-26 10:59:59,941-INFO-Serie_A | 2012: 20 ta qator olindi.
+2025-10-26 11:00:00,942-INFO-Serie_A | 2013 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2013
+2025-10-26 11:00:09,811-INFO-Serie_A | 2013: 20 ta qator olindi.
+2025-10-26 11:00:10,813-INFO-Serie_A | 2014 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2014
+2025-10-26 11:00:19,230-INFO-Serie_A | 2014: 20 ta qator olindi.
+2025-10-26 11:00:20,231-INFO-Serie_A | 2015 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2015
+2025-10-26 11:00:50,523-INFO-Serie_A | 2015: 20 ta qator olindi.
+2025-10-26 11:00:51,524-INFO-Serie_A | 2016 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2016
+2025-10-26 11:01:10,289-INFO-Serie_A | 2016: 20 ta qator olindi.
+2025-10-26 11:01:11,289-INFO-Serie_A | 2017 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2017
+2025-10-26 11:01:13,026-INFO-Serie_A | 2017: 20 ta qator olindi.
+2025-10-26 11:01:14,027-INFO-Serie_A | 2018 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2018
+2025-10-26 11:01:20,602-INFO-Serie_A | 2018: 20 ta qator olindi.
+2025-10-26 11:01:21,603-INFO-Serie_A | 2019 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2019
+2025-10-26 11:01:36,921-INFO-Serie_A | 2019: 20 ta qator olindi.
+2025-10-26 11:01:37,922-INFO-Serie_A | 2020 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2020
+2025-10-26 11:01:57,266-INFO-Serie_A | 2020: 20 ta qator olindi.
+2025-10-26 11:01:58,267-INFO-Serie_A | 2021 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2021
+2025-10-26 11:02:15,097-INFO-Serie_A | 2021: 20 ta qator olindi.
+2025-10-26 11:02:16,097-INFO-Serie_A | 2022 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2022
+2025-10-26 11:02:23,958-INFO-Serie_A | 2022: 20 ta qator olindi.
+2025-10-26 11:02:24,960-INFO-Serie_A | 2023 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2023
+2025-10-26 11:02:42,437-INFO-Serie_A | 2023: 20 ta qator olindi.
+2025-10-26 11:02:43,438-INFO-Serie_A | 2024 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2024
+2025-10-26 11:03:23,984-INFO-Serie_A | 2024: 20 ta qator olindi.
+2025-10-26 11:03:24,985-INFO-Serie_A | 2025 yil uchun URL: https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1/plus/?saison_id=2025
+2025-10-26 11:03:26,133-INFO-Serie_A | 2025: 20 ta qator olindi.
+2025-10-26 11:03:27,143-INFO-Serie_A uchun CSV saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data\Web_scraped\Serie_A_20years.csv
+2025-10-26 11:03:27,143-INFO-Ligue_1 ligasi uchun scraping boshlandi.
+2025-10-26 11:03:27,143-INFO-Ligue_1 | 2005 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2005
+2025-10-26 11:03:33,858-INFO-Ligue_1 | 2005: 20 ta qator olindi.
+2025-10-26 11:03:34,859-INFO-Ligue_1 | 2006 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2006
+2025-10-26 11:03:41,717-INFO-Ligue_1 | 2006: 20 ta qator olindi.
+2025-10-26 11:03:42,718-INFO-Ligue_1 | 2007 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2007
+2025-10-26 11:03:52,626-INFO-Ligue_1 | 2007: 20 ta qator olindi.
+2025-10-26 11:03:53,627-INFO-Ligue_1 | 2008 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2008
+2025-10-26 11:03:59,813-INFO-Ligue_1 | 2008: 20 ta qator olindi.
+2025-10-26 11:04:00,813-INFO-Ligue_1 | 2009 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2009
+2025-10-26 11:04:07,651-INFO-Ligue_1 | 2009: 20 ta qator olindi.
+2025-10-26 11:04:08,652-INFO-Ligue_1 | 2010 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2010
+2025-10-26 11:04:21,895-INFO-Ligue_1 | 2010: 20 ta qator olindi.
+2025-10-26 11:04:22,897-INFO-Ligue_1 | 2011 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2011
+2025-10-26 11:04:29,776-INFO-Ligue_1 | 2011: 20 ta qator olindi.
+2025-10-26 11:04:30,776-INFO-Ligue_1 | 2012 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2012
+2025-10-26 11:04:37,034-INFO-Ligue_1 | 2012: 20 ta qator olindi.
+2025-10-26 11:04:38,034-INFO-Ligue_1 | 2013 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2013
+2025-10-26 11:04:52,302-INFO-Ligue_1 | 2013: 20 ta qator olindi.
+2025-10-26 11:04:53,303-INFO-Ligue_1 | 2014 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2014
+2025-10-26 11:05:04,870-INFO-Ligue_1 | 2014: 20 ta qator olindi.
+2025-10-26 11:05:05,871-INFO-Ligue_1 | 2015 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2015
+2025-10-26 11:05:11,972-INFO-Ligue_1 | 2015: 20 ta qator olindi.
+2025-10-26 11:05:12,973-INFO-Ligue_1 | 2016 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2016
+2025-10-26 11:05:24,353-INFO-Ligue_1 | 2016: 20 ta qator olindi.
+2025-10-26 11:05:25,354-INFO-Ligue_1 | 2017 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2017
+2025-10-26 11:05:41,647-INFO-Ligue_1 | 2017: 20 ta qator olindi.
+2025-10-26 11:05:42,648-INFO-Ligue_1 | 2018 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2018
+2025-10-26 11:06:04,781-INFO-Ligue_1 | 2018: 20 ta qator olindi.
+2025-10-26 11:06:05,782-INFO-Ligue_1 | 2019 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2019
+2025-10-26 11:06:09,139-INFO-Ligue_1 | 2019: 20 ta qator olindi.
+2025-10-26 11:06:10,141-INFO-Ligue_1 | 2020 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2020
+2025-10-26 11:06:23,732-INFO-Ligue_1 | 2020: 20 ta qator olindi.
+2025-10-26 11:06:24,732-INFO-Ligue_1 | 2021 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2021
+2025-10-26 11:06:30,336-INFO-Ligue_1 | 2021: 20 ta qator olindi.
+2025-10-26 11:06:31,337-INFO-Ligue_1 | 2022 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2022
+2025-10-26 11:06:37,459-INFO-Ligue_1 | 2022: 20 ta qator olindi.
+2025-10-26 11:06:38,460-INFO-Ligue_1 | 2023 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2023
+2025-10-26 11:06:43,980-INFO-Ligue_1 | 2023: 18 ta qator olindi.
+2025-10-26 11:06:44,981-INFO-Ligue_1 | 2024 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2024
+2025-10-26 11:06:59,695-INFO-Ligue_1 | 2024: 18 ta qator olindi.
+2025-10-26 11:07:00,695-INFO-Ligue_1 | 2025 yil uchun URL: https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1/plus/?saison_id=2025
+2025-10-26 11:07:06,158-INFO-Ligue_1 | 2025: 18 ta qator olindi.
+2025-10-26 11:07:07,166-INFO-Ligue_1 uchun CSV saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data\Web_scraped\Ligue_1_20years.csv
+2025-10-26 11:07:07,166-INFO-Barcha ligalarni birlashtirish jarayoni boshlandi.
+2025-10-26 11:07:07,181-INFO- Barcha 5 liga birlashtirildi. Umumiy satrlar: 2052
+2025-10-26 11:07:07,181-INFO-Yakuniy fayl saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data\Raw_data\Top5_Leagues_2005_2025.csv
+2025-10-26 11:07:07,182-INFO- Scraping muvaffaqiyatli yakunlandi.

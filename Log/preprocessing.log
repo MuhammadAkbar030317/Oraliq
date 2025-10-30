@@ -1,0 +1,40 @@
+2025-10-25 14:07:50,623-INFO-Log folder created and logging started.
+2025-10-25 14:07:50,623-WARNING-This is a warning message.
+2025-10-25 14:07:50,623-ERROR-This is an error message.
+2025-10-25 14:09:27,516-INFO-DataPreprocessing class initialized
+2025-10-25 14:09:27,523-INFO-player ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,524-INFO-position ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,525-INFO-first_match ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,525-INFO-opponent1 ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,526-INFO-last_match ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,527-INFO-opponent2 ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,527-INFO-country ustuni LabelEncoder bilan kodlandi.
+2025-10-25 14:09:27,531-INFO-Raqamli ustunlar MinMaxScaler bilan o'lchovga keltirildi.
+2025-10-25 14:09:27,532-INFO-Tayyor ma'lumot olindi.
+2025-10-25 14:10:32,239-INFO-Maluot saqlandi
+2025-10-26 09:49:16,398-INFO-Log folder created and logging started.
+2025-10-26 09:49:16,403-WARNING-This is a warning message.
+2025-10-26 09:49:16,403-ERROR-This is an error message.
+2025-10-26 09:52:35,366-INFO-DataPreprocessing class initialized
+2025-10-26 09:52:35,368-INFO-Club ustuni LabelEncoder bilan kodlandi.
+2025-10-26 09:52:35,370-INFO-Market value ustuni LabelEncoder bilan kodlandi.
+2025-10-26 09:52:35,373-INFO-Total market value ustuni LabelEncoder bilan kodlandi.
+2025-10-26 09:52:35,374-INFO-League ustuni LabelEncoder bilan kodlandi.
+2025-10-26 09:52:35,374-INFO-category ustuni LabelEncoder bilan kodlandi.
+2025-10-26 09:52:35,377-INFO-Raqamli ustunlar MinMaxScaler bilan o'lchovga keltirildi.
+2025-10-26 09:52:35,378-INFO-Tayyor ma'lumot olindi.
+2025-10-26 09:53:03,601-INFO-Maluot saqlandi
+2025-10-26 11:22:16,007-INFO-DataPreprocessing class initialized
+2025-10-26 11:22:16,010-INFO-Club ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:22:16,014-INFO-Total market value ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:22:16,015-INFO-League ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:22:16,016-INFO-Market_value ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:22:16,019-INFO-Raqamli ustunlar MinMaxScaler bilan o'lchovga keltirildi.
+2025-10-26 11:22:16,019-INFO-Tayyor ma'lumot olindi.
+2025-10-26 11:26:00,730-INFO-DataPreprocessing class initialized
+2025-10-26 11:26:00,732-INFO-Club ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:26:00,736-INFO-Total market value ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:26:00,736-INFO-League ustuni LabelEncoder bilan kodlandi.
+2025-10-26 11:26:00,740-INFO-Raqamli ustunlar MinMaxScaler bilan o'lchovga keltirildi.
+2025-10-26 11:26:00,740-INFO-Tayyor ma'lumot olindi.
+2025-10-26 11:26:11,860-INFO-Maluot saqlandi
