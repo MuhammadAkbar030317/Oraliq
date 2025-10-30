@@ -71,3 +71,21 @@
 2025-10-30 21:00:25,344 - INFO -  RF training with Embedded feature engineering
 2025-10-30 21:00:25,345 - INFO - target va dataset olindi
 2025-10-30 21:00:25,359 - INFO - Feature selection is finished
+2025-10-30 21:00:43,381 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\wrapped_random_forest.csv
+2025-10-30 21:01:13,193 - INFO - Data called
+2025-10-30 21:01:15,483 - INFO -  RF training with wrapped feature engineering
+2025-10-30 21:01:15,485 - INFO - target va dataset olindi
+2025-10-30 21:01:15,488 - INFO - xatolik ro'y berdi
+2025-10-30 21:01:17,789 - INFO -  RF training with wrapped feature engineering
+2025-10-30 21:01:17,791 - INFO - target va dataset olindi
+2025-10-30 21:01:17,794 - INFO - xatolik ro'y berdi
+2025-10-30 21:01:24,526 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\wrapped_random_forest.csv
+2025-10-30 21:01:27,786 - INFO - Data called
+2025-10-30 21:01:29,836 - INFO -  RF training with Embedded feature engineering
+2025-10-30 21:01:29,837 - INFO - target va dataset olindi
+2025-10-30 21:01:29,852 - INFO - Feature selection is finished
+2025-10-30 21:01:58,614 - INFO - Data called
+2025-10-30 21:02:00,583 - INFO -  RF training with Embedded feature engineering
+2025-10-30 21:02:00,585 - INFO - target va dataset olindi
+2025-10-30 21:02:00,602 - INFO - Feature selection is finished
+2025-10-30 21:02:07,341 - INFO - Log transformed data saved to --> C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data\embedded_DT.csv
