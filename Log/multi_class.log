@@ -1,0 +1,22 @@
+2025-11-04 12:23:06,357 - INFO - Data yuklandi: (2052, 9)
+2025-11-04 12:23:06,357 - INFO - NaN qiymatlar o‘chirildi.
+2025-11-04 12:23:06,358 - INFO - Pipeline yaratildi.
+2025-11-04 12:23:06,764 - INFO - OvO RandomForest accuracy: 0.898
+2025-11-04 12:23:06,823 - INFO - One-vs-One (Random Forest) saqlandi: ../Model/ovo_random_forest.joblib
+2025-11-04 12:23:07,308 - INFO - OvR RandomForest accuracy: 0.910
+2025-11-04 12:23:07,369 - INFO - One-vs-Rest (Random Forest) saqlandi: ../Model/ovr_random_forest.joblib
+2025-11-04 12:23:07,381 - INFO - OvO DecisionTree accuracy: 0.888
+2025-11-04 12:23:07,384 - INFO - One-vs-One (Decision Tree) saqlandi: ../Model/ovo_decision_tree.joblib
+2025-11-04 12:23:07,401 - INFO - OvR DecisionTree accuracy: 0.881
+2025-11-04 12:23:07,403 - INFO - One-vs-Rest (Decision Tree) saqlandi: ../Model/ovr_decision_tree.joblib
+2025-11-04 12:27:42,019 - INFO - Data yuklandi: (2052, 9)
+2025-11-04 12:27:42,019 - INFO - NaN qiymatlar o‘chirildi.
+2025-11-04 12:27:42,020 - INFO - Pipeline yaratildi.
+2025-11-04 12:27:42,430 - INFO - OvO RandomForest accuracy: 0.898
+2025-11-04 12:27:42,492 - INFO - One-vs-One (Random Forest) saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Model/ovo_random_forest.joblib
+2025-11-04 12:27:42,990 - INFO - OvR RandomForest accuracy: 0.910
+2025-11-04 12:27:43,050 - INFO - One-vs-Rest (Random Forest) saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Model/ovr_random_forest.joblib
+2025-11-04 12:27:43,060 - INFO - OvO DecisionTree accuracy: 0.888
+2025-11-04 12:27:43,065 - INFO - One-vs-One (Decision Tree) saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Model/ovo_decision_tree.joblib
+2025-11-04 12:27:43,083 - INFO - OvR DecisionTree accuracy: 0.881
+2025-11-04 12:27:43,085 - INFO - One-vs-Rest (Decision Tree) saqlandi: C:/Users/User/Desktop/AI_Projects/Project_05/Model/ovr_decision_tree.joblib

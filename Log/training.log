@@ -1,0 +1,132 @@
+2025-11-03 20:13:46,424 - INFO - Model train boshlandi
+2025-11-03 20:13:46,438 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 20:13:46,438 - INFO - Data  yuklandi.
+2025-11-03 20:13:46,438 - INFO - Decision Tree train.
+2025-11-03 20:13:46,438 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 20:13:46,442 - ERROR - decision_tree train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:13:46,443 - INFO - Decision Tree train yakunlandi.
+2025-11-03 20:13:46,443 - INFO - Random Forest train
+2025-11-03 20:13:46,443 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 20:13:46,443 - ERROR - random_forest train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:13:46,443 - INFO - Random Forest train yakunlandi.
+2025-11-03 20:13:46,443 - INFO - Barcha model training yakunlandi
+2025-11-03 20:14:06,136 - INFO - Model train boshlandi
+2025-11-03 20:14:06,145 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 20:14:06,145 - INFO - Data  yuklandi.
+2025-11-03 20:14:06,145 - INFO - Decision Tree train.
+2025-11-03 20:14:06,145 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 20:14:06,146 - ERROR - decision_tree train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:14:06,146 - INFO - Decision Tree train yakunlandi.
+2025-11-03 20:14:06,146 - INFO - Random Forest train
+2025-11-03 20:14:06,146 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 20:14:06,146 - ERROR - random_forest train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:14:06,146 - INFO - Random Forest train yakunlandi.
+2025-11-03 20:14:06,146 - INFO - Barcha model training yakunlandi
+2025-11-03 20:22:28,838 - INFO - Model train boshlandi
+2025-11-03 20:22:28,846 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 20:22:28,846 - INFO - Data  yuklandi.
+2025-11-03 20:22:28,846 - INFO - Decision Tree train.
+2025-11-03 20:22:28,848 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 20:22:28,848 - ERROR - decision_tree train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:22:28,848 - INFO - Decision Tree train yakunlandi.
+2025-11-03 20:22:28,848 - INFO - Random Forest train
+2025-11-03 20:22:28,848 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 20:22:28,848 - ERROR - random_forest train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:22:28,848 - INFO - Random Forest train yakunlandi.
+2025-11-03 20:22:28,848 - INFO - Barcha model training yakunlandi
+2025-11-03 20:27:42,245 - INFO - Model train boshlandi
+2025-11-03 20:27:42,252 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 20:27:42,252 - INFO - Data  yuklandi.
+2025-11-03 20:27:42,252 - INFO - Decision Tree train.
+2025-11-03 20:27:42,252 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 20:27:42,253 - ERROR - decision_tree train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:27:42,253 - INFO - Decision Tree train yakunlandi.
+2025-11-03 20:27:42,253 - INFO - Logistic regression
+2025-11-03 20:27:42,253 - INFO - logistic_regression modelini train qilish boshlandi.
+2025-11-03 20:27:42,253 - ERROR - logistic_regression train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:27:42,253 - INFO - Logistic regression train yakunlandi.
+2025-11-03 20:27:42,253 - INFO - KNN train
+2025-11-03 20:27:42,253 - INFO - knn modelini train qilish boshlandi.
+2025-11-03 20:27:42,253 - ERROR - knn train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:27:42,253 - INFO - KNN train yakunlandi.
+2025-11-03 20:27:42,253 - INFO - Random Forest train
+2025-11-03 20:27:42,253 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 20:27:42,253 - ERROR - random_forest train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:27:42,253 - INFO - Random Forest train yakunlandi.
+2025-11-03 20:27:42,253 - INFO - Barcha model training yakunlandi
+2025-11-03 20:35:18,338 - INFO - Model train boshlandi
+2025-11-03 20:35:18,347 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 20:35:18,347 - INFO - Data  yuklandi.
+2025-11-03 20:35:18,347 - INFO - Decision Tree train.
+2025-11-03 20:35:18,347 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 20:35:18,347 - ERROR - decision_tree train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:35:18,347 - INFO - Decision Tree train yakunlandi.
+2025-11-03 20:35:18,348 - INFO - Logistic regression
+2025-11-03 20:35:18,348 - INFO - logistic_regression modelini train qilish boshlandi.
+2025-11-03 20:35:18,348 - ERROR - logistic_regression train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:35:18,348 - INFO - Logistic regression train yakunlandi.
+2025-11-03 20:35:18,348 - INFO - KNN train
+2025-11-03 20:35:18,348 - INFO - knn modelini train qilish boshlandi.
+2025-11-03 20:35:18,348 - ERROR - knn train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:35:18,348 - INFO - KNN train yakunlandi.
+2025-11-03 20:35:18,348 - INFO - Random Forest train
+2025-11-03 20:35:18,348 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 20:35:18,348 - ERROR - random_forest train jarayonida xatolik: "['Market Value'] not found in axis"
+2025-11-03 20:35:18,348 - INFO - Random Forest train yakunlandi.
+2025-11-03 20:35:18,348 - INFO - Barcha model training yakunlandi
+2025-11-03 20:39:40,224 - INFO - Model train boshlandi
+2025-11-03 20:39:40,232 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 20:39:40,232 - INFO - Data  yuklandi.
+2025-11-03 20:39:40,232 - INFO - Decision Tree train.
+2025-11-03 20:39:40,232 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 20:39:40,255 - INFO - decision_tree training yakunlandi. Accuracy: 0.8344
+2025-11-03 20:39:40,256 - INFO - Decision Tree train yakunlandi.
+2025-11-03 20:39:40,256 - INFO - Logistic regression
+2025-11-03 20:39:40,256 - INFO - logistic_regression modelini train qilish boshlandi.
+2025-11-03 20:39:40,338 - INFO - logistic_regression training yakunlandi. Accuracy: 0.6477
+2025-11-03 20:39:40,339 - INFO - Logistic regression train yakunlandi.
+2025-11-03 20:39:40,339 - INFO - KNN train
+2025-11-03 20:39:40,339 - INFO - knn modelini train qilish boshlandi.
+2025-11-03 20:39:40,378 - INFO - knn training yakunlandi. Accuracy: 0.8247
+2025-11-03 20:39:40,379 - INFO - KNN train yakunlandi.
+2025-11-03 20:39:40,379 - INFO - Random Forest train
+2025-11-03 20:39:40,379 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 20:39:40,689 - INFO - random_forest training yakunlandi. Accuracy: 0.8896
+2025-11-03 20:39:40,691 - INFO - Random Forest train yakunlandi.
+2025-11-03 20:39:40,691 - INFO - Barcha model training yakunlandi
+2025-11-03 21:04:02,850 - INFO - Model train boshlandi
+2025-11-03 21:04:02,850 - INFO - wrapped_random_forest.csv uchun training boshlandi
+2025-11-03 21:04:02,854 - ERROR - Data yuklashda xatolik: [Errno 2] No such file or directory: 'C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csvC:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/embedded_DT.csvC:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/filtered.csvC:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/wrapped_d_tree.csvC:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/wrapped_random_forest.csv'
+2025-11-03 21:04:02,854 - INFO - Data  yuklandi.
+2025-11-03 21:04:02,854 - INFO - Decision Tree train.
+2025-11-03 21:04:02,854 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 21:04:02,854 - ERROR - decision_tree train jarayonida xatolik: 'NoneType' object has no attribute 'drop'
+2025-11-03 21:04:02,854 - ERROR - Trainingda xatolik: 'Train' object has no attribute 'results'
+2025-11-03 21:07:32,113 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 21:07:32,123 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 21:07:32,123 - INFO - log_transform.csv uchun decision_tree train boshlandi.
+2025-11-03 21:07:32,123 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 21:07:32,141 - INFO - decision_tree training yakunlandi. Accuracy: 0.8344
+2025-11-03 21:07:32,142 - INFO - log_transform.csv uchun decision_tree train tugadi.
+2025-11-03 21:07:32,142 - INFO - log_transform.csv uchun random_forest train boshlandi.
+2025-11-03 21:07:32,142 - INFO - random_forest modelini train qilish boshlandi.
+2025-11-03 21:07:32,395 - INFO - random_forest training yakunlandi. Accuracy: 0.8896
+2025-11-03 21:07:32,395 - INFO - log_transform.csv uchun random_forest train tugadi.
+2025-11-03 21:07:32,395 - INFO - log_transform.csv uchun knn train boshlandi.
+2025-11-03 21:07:32,395 - INFO - knn modelini train qilish boshlandi.
+2025-11-03 21:07:32,429 - INFO - knn training yakunlandi. Accuracy: 0.8247
+2025-11-03 21:07:32,430 - INFO - log_transform.csv uchun knn train tugadi.
+2025-11-03 21:07:32,430 - INFO - log_transform.csv uchun logistic_regression train boshlandi.
+2025-11-03 21:07:32,430 - INFO - logistic_regression modelini train qilish boshlandi.
+2025-11-03 21:07:32,476 - INFO - logistic_regression training yakunlandi. Accuracy: 0.6477
+2025-11-03 21:07:32,476 - INFO - log_transform.csv uchun logistic_regression train tugadi.
+2025-11-03 21:07:32,476 - INFO - log_transform.csv uchun xgboost train boshlandi.
+2025-11-03 21:07:32,476 - INFO - xgboost modelini train qilish boshlandi.
+2025-11-03 21:07:32,494 - INFO - xgboost training yakunlandi. Accuracy: 0.6477
+2025-11-03 21:07:32,495 - INFO - log_transform.csv uchun xgboost train tugadi.
+2025-11-03 21:07:32,495 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/embedded_DT.csv
+2025-11-03 21:07:32,505 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/embedded_DT.csv
+2025-11-03 21:07:32,505 - INFO - embedded_DT.csv uchun decision_tree train boshlandi.
+2025-11-03 21:07:32,505 - INFO - decision_tree modelini train qilish boshlandi.
+2025-11-03 21:07:32,505 - ERROR - decision_tree train jarayonida xatolik: "['Market value'] not found in axis"
+2025-11-03 21:07:32,506 - ERROR - Trainingda xatolik: 'Train' object has no attribute 'results'

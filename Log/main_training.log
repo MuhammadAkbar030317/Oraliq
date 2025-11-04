@@ -1,0 +1,86 @@
+2025-11-03 21:09:26,168 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 21:09:26,176 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/log_transform.csv
+2025-11-03 21:09:26,176 - INFO - log_transform.csv uchun decision_tree train boshlandi.
+2025-11-03 21:09:26,186 - INFO - decision_tree training yakunlandi. Accuracy: 1.0000
+2025-11-03 21:09:26,188 - INFO - log_transform.csv uchun decision_tree train tugadi.
+2025-11-03 21:09:26,188 - INFO - log_transform.csv uchun random_forest train boshlandi.
+2025-11-03 21:09:26,407 - INFO - random_forest training yakunlandi. Accuracy: 1.0000
+2025-11-03 21:09:26,414 - INFO - log_transform.csv uchun random_forest train tugadi.
+2025-11-03 21:09:26,414 - INFO - log_transform.csv uchun knn train boshlandi.
+2025-11-03 21:09:26,455 - INFO - knn training yakunlandi. Accuracy: 0.8750
+2025-11-03 21:09:26,456 - INFO - log_transform.csv uchun knn train tugadi.
+2025-11-03 21:09:26,456 - INFO - log_transform.csv uchun logistic_regression train boshlandi.
+2025-11-03 21:09:26,491 - INFO - logistic_regression training yakunlandi. Accuracy: 0.8279
+2025-11-03 21:09:26,492 - INFO - log_transform.csv uchun logistic_regression train tugadi.
+2025-11-03 21:09:26,492 - INFO - log_transform.csv uchun xgboost train boshlandi.
+2025-11-03 21:09:26,493 - ERROR - xgboost train jarayonida xatolik: Noma値um model turi: xgboost
+2025-11-03 21:09:26,493 - INFO - log_transform.csv uchun xgboost train tugadi.
+2025-11-03 21:09:26,493 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/embedded_DT.csv
+2025-11-03 21:09:26,498 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/embedded_DT.csv
+2025-11-03 21:09:26,498 - INFO - embedded_DT.csv uchun decision_tree train boshlandi.
+2025-11-03 21:09:26,512 - INFO - decision_tree training yakunlandi. Accuracy: 0.8198
+2025-11-03 21:09:26,513 - INFO - embedded_DT.csv uchun decision_tree train tugadi.
+2025-11-03 21:09:26,513 - INFO - embedded_DT.csv uchun random_forest train boshlandi.
+2025-11-03 21:09:26,803 - INFO - random_forest training yakunlandi. Accuracy: 0.8782
+2025-11-03 21:09:26,809 - INFO - embedded_DT.csv uchun random_forest train tugadi.
+2025-11-03 21:09:26,809 - INFO - embedded_DT.csv uchun knn train boshlandi.
+2025-11-03 21:09:26,848 - INFO - knn training yakunlandi. Accuracy: 0.8231
+2025-11-03 21:09:26,849 - INFO - embedded_DT.csv uchun knn train tugadi.
+2025-11-03 21:09:26,849 - INFO - embedded_DT.csv uchun logistic_regression train boshlandi.
+2025-11-03 21:09:26,863 - INFO - logistic_regression training yakunlandi. Accuracy: 0.6445
+2025-11-03 21:09:26,864 - INFO - embedded_DT.csv uchun logistic_regression train tugadi.
+2025-11-03 21:09:26,864 - INFO - embedded_DT.csv uchun xgboost train boshlandi.
+2025-11-03 21:09:26,867 - ERROR - xgboost train jarayonida xatolik: Noma値um model turi: xgboost
+2025-11-03 21:09:26,867 - INFO - embedded_DT.csv uchun xgboost train tugadi.
+2025-11-03 21:09:26,867 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/filtered.csv
+2025-11-03 21:09:26,879 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/filtered.csv
+2025-11-03 21:09:26,879 - INFO - filtered.csv uchun decision_tree train boshlandi.
+2025-11-03 21:09:26,888 - INFO - decision_tree training yakunlandi. Accuracy: 1.0000
+2025-11-03 21:09:26,889 - INFO - filtered.csv uchun decision_tree train tugadi.
+2025-11-03 21:09:26,889 - INFO - filtered.csv uchun random_forest train boshlandi.
+2025-11-03 21:09:27,092 - INFO - random_forest training yakunlandi. Accuracy: 1.0000
+2025-11-03 21:09:27,093 - INFO - filtered.csv uchun random_forest train tugadi.
+2025-11-03 21:09:27,093 - INFO - filtered.csv uchun knn train boshlandi.
+2025-11-03 21:09:27,128 - INFO - knn training yakunlandi. Accuracy: 0.8750
+2025-11-03 21:09:27,129 - INFO - filtered.csv uchun knn train tugadi.
+2025-11-03 21:09:27,129 - INFO - filtered.csv uchun logistic_regression train boshlandi.
+2025-11-03 21:09:27,154 - INFO - logistic_regression training yakunlandi. Accuracy: 0.8279
+2025-11-03 21:09:27,155 - INFO - filtered.csv uchun logistic_regression train tugadi.
+2025-11-03 21:09:27,155 - INFO - filtered.csv uchun xgboost train boshlandi.
+2025-11-03 21:09:27,157 - ERROR - xgboost train jarayonida xatolik: Noma値um model turi: xgboost
+2025-11-03 21:09:27,157 - INFO - filtered.csv uchun xgboost train tugadi.
+2025-11-03 21:09:27,158 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/wrapped_d_tree.csv
+2025-11-03 21:09:27,168 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/wrapped_d_tree.csv
+2025-11-03 21:09:27,168 - INFO - wrapped_d_tree.csv uchun decision_tree train boshlandi.
+2025-11-03 21:09:27,179 - INFO - decision_tree training yakunlandi. Accuracy: 1.0000
+2025-11-03 21:09:27,181 - INFO - wrapped_d_tree.csv uchun decision_tree train tugadi.
+2025-11-03 21:09:27,181 - INFO - wrapped_d_tree.csv uchun random_forest train boshlandi.
+2025-11-03 21:09:27,391 - INFO - random_forest training yakunlandi. Accuracy: 0.9984
+2025-11-03 21:09:27,392 - INFO - wrapped_d_tree.csv uchun random_forest train tugadi.
+2025-11-03 21:09:27,392 - INFO - wrapped_d_tree.csv uchun knn train boshlandi.
+2025-11-03 21:09:27,431 - INFO - knn training yakunlandi. Accuracy: 0.9123
+2025-11-03 21:09:27,432 - INFO - wrapped_d_tree.csv uchun knn train tugadi.
+2025-11-03 21:09:27,432 - INFO - wrapped_d_tree.csv uchun logistic_regression train boshlandi.
+2025-11-03 21:09:27,451 - INFO - logistic_regression training yakunlandi. Accuracy: 0.8279
+2025-11-03 21:09:27,452 - INFO - wrapped_d_tree.csv uchun logistic_regression train tugadi.
+2025-11-03 21:09:27,453 - INFO - wrapped_d_tree.csv uchun xgboost train boshlandi.
+2025-11-03 21:09:27,454 - ERROR - xgboost train jarayonida xatolik: Noma値um model turi: xgboost
+2025-11-03 21:09:27,454 - INFO - wrapped_d_tree.csv uchun xgboost train tugadi.
+2025-11-03 21:09:27,454 - INFO - Data yuklanmoqda: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/wrapped_random_forest.csv
+2025-11-03 21:09:27,465 - INFO - Data yuklandi: C:/Users/User/Desktop/AI_Projects/Project_05/Data/Engineered_data/wrapped_random_forest.csv
+2025-11-03 21:09:27,465 - INFO - wrapped_random_forest.csv uchun decision_tree train boshlandi.
+2025-11-03 21:09:27,479 - INFO - decision_tree training yakunlandi. Accuracy: 0.8377
+2025-11-03 21:09:27,480 - INFO - wrapped_random_forest.csv uchun decision_tree train tugadi.
+2025-11-03 21:09:27,480 - INFO - wrapped_random_forest.csv uchun random_forest train boshlandi.
+2025-11-03 21:09:27,761 - INFO - random_forest training yakunlandi. Accuracy: 0.8912
+2025-11-03 21:09:27,762 - INFO - wrapped_random_forest.csv uchun random_forest train tugadi.
+2025-11-03 21:09:27,762 - INFO - wrapped_random_forest.csv uchun knn train boshlandi.
+2025-11-03 21:09:27,799 - INFO - knn training yakunlandi. Accuracy: 0.8247
+2025-11-03 21:09:27,801 - INFO - wrapped_random_forest.csv uchun knn train tugadi.
+2025-11-03 21:09:27,801 - INFO - wrapped_random_forest.csv uchun logistic_regression train boshlandi.
+2025-11-03 21:09:27,819 - INFO - logistic_regression training yakunlandi. Accuracy: 0.6477
+2025-11-03 21:09:27,820 - INFO - wrapped_random_forest.csv uchun logistic_regression train tugadi.
+2025-11-03 21:09:27,821 - INFO - wrapped_random_forest.csv uchun xgboost train boshlandi.
+2025-11-03 21:09:27,822 - ERROR - xgboost train jarayonida xatolik: Noma値um model turi: xgboost
+2025-11-03 21:09:27,823 - INFO - wrapped_random_forest.csv uchun xgboost train tugadi.
+2025-11-03 21:09:27,823 - INFO - \u2705 Barcha model training jarayonlari yakunlandi.
